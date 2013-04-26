@@ -9,16 +9,22 @@ title: Federal Agencies
 <script id="agencyListingTemplate" type="text/template">       
     <tr>
         <td width="100" align="center" valign="middle">
-            <a href="federal-agencies-detail.html?id={{id}}">
+            <a href="federal-agencies-detail.html?agency_id={{agency_id}}">
                 <img src="{{logo}}" width="100" align="center" style="padding: 15px;" />
             </a>
         </td>
         <td valign="middle" align="left">
-            <a href="federal-agencies-detail.html?id={{id}}" style="color: #000;">
+            <a href="federal-agencies-detail.html?agency_id={{agency_id}}" style="color: #000;">
                 <strong>{{name}}</strong></a>
             </a>
         </td>
-    </tr>                                                                                               
+    </tr>    
+    <tr>
+        <td>
+            <ul id="two-{{agency_id}}"></ul>
+            <ul id="seven-{{agency_id}}"></ul>     
+        </td>
+    </tr>                                                                                           
 </script>
 {% endraw %}
 
@@ -40,12 +46,24 @@ title: Federal Agencies
         $.getJSON('data/federal-agencies-digital-strategy.json', function(data) {
              $.each(data['agencies'], function(key, val) {
                  
-                two = val['2.2'];
-                seven = val['7.2'];  
-                alert(seven);
+                agency_id = val['agency_id']; 
+                
                 var template = $('#agencyListingTemplate').html();
                 var html = Mustache.to_html(template, val);
-                $('#agencyListing').append(html);                          
+                $('#agencyListing').append(html);     
+                
+                two = val['2.2'];
+                seven = val['7.2'];  
+                
+                 $.each(data['2.2'], function(key, val) {
+                     $('#seven-'+agency_id).append(val);  
+                 }
+                 
+                 $.each(data['7.2'], function(key, val) {
+                     $('#seven-'+agency_id).append(val);  
+                 }
+                
+                                     
                 });
             });
         }  
