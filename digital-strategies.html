@@ -56,8 +56,9 @@ title: Federal Agencies
                 seven = val['7.2'];  
                 
                  $.each(two, function(key, val) {
-                     alert(val);
-                     $('#two-'+agency_id).append(val);  
+                     name = val['name'];
+                     description = val['description'];
+                     $('#two-'+agency_id).append(name+' '+description);  
                 });
                  
                  $.each(seven, function(key, val) {
