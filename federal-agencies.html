@@ -31,7 +31,7 @@ title: Federal Agencies
     function listAgencies()
         {
         $.getJSON('data/federal-agencies.json', function(data) {
-             $.each(data['company'], function(key, val) {
+             $.each(data['agencies'], function(key, val) {
                 var template = $('#agencyListingTemplate').html();
                 var html = Mustache.to_html(template, val);
                 $('#agencyListing').append(html);                          
