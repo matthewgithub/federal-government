@@ -7,13 +7,18 @@ title: Federal Agencies
 <!-- Begin Federal Agency Listing --->
 {% raw  %}
 <script id="agencyListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="federal-agencies-detail.html?id={{id}}">
-            <img src="{{logo}}" width="100" align="center" style="padding: 15px;" />
-        </a>
-        <a href="federal-agencies-detail.html?id={{id}}" style="color: #000;">
-            <strong>{{name}}</strong></a>
-    </li>                                                                                               
+    <tr>
+        <td width="100" align="center" valign="middle">
+            <a href="federal-agencies-detail.html?id={{id}}">
+                <img src="{{logo}}" width="100" align="center" style="padding: 15px;" />
+            </a>
+        </td>
+        <td valign="middle" align="left">
+            <a href="federal-agencies-detail.html?id={{id}}" style="color: #000;">
+                <strong>{{name}}</strong></a>
+            </a>
+        </td>
+    </tr>                                                                                               
 </script>
 {% endraw %}
 
@@ -25,9 +30,7 @@ title: Federal Agencies
 
 <h1>Federal Agencies</h1>
 
-<div style="padding-left: 10px; padding-right: 10px; width:550px;">
-     <ul id="agencyListing" style="padding-left: 30px;"></ul>
-</div>  
+<table id="agencyListing" style="padding-left: 20px;"></table>
 
 <script type="text/javascript">
     
