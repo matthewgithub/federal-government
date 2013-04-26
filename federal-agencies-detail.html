@@ -6,12 +6,18 @@ title: Companies
 <script id="agencyTemplate" type="text/template">
 
     <h2>{{name}}</h2>
-    <p align="center"><img src="{{logo}}" width="150" style="padding: 15px;" /></a></p>
+    <p align="center"><img src="{{logo}}" width="250" style="padding: 15px;" /></a></p>
     <p align="center"><strong>Digital Strategy</strong> (<a href="{{digital_strategy_html}}" target="_blank">HTML</a>) (<a href="{{digital_strategy_json}}" target="_blank">JSON</a>) (<a href="{{digital_strategy_xml}}" target="_blank">XML</a>)</p>
     <br />
     <p align="center">
-        <a href="{{url}}" target="_blank" title="Website" id="home-icon"><img id="home-icon-img" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="50" style="margin-bottom: 5px; padding:15px;" /></a>
+        <a href="{{url}}" target="_blank" title="{{name}}">{{url}}</a>
      </p>
+     <div align="center" style="width: 500px; border: 1px solid #000;">
+        <h3>2.1</h3>
+        <ul style="padding-left: 25px;" id="two-{{agency_id}}"></ul>
+        <h3>7.1</h3>
+        <ul style="padding-left: 25px;" id="seven-{{agency_id}}"></ul>
+        </div>        
 </script>
 {% endraw %}
 
