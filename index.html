@@ -5,10 +5,19 @@ title: Federal Government
 
 <h1>API & Federal Government</h1>
 <p><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Building-a-21st-century-platform-to-better-serve-the-american-people-1.png" width="250" align="right" style="padding: 15px;" /></p>
-<p>After reading <a title="Barack Obamas Presidential directive that every Federal Government agency should have an API" href="http://blog.apievangelist.com/2012/06/01/barak-obama-directs-all-federal-agencies-to-have-an-api/">Barack Obamas Presidential directive that every Federal Government agency should have an API</a>, following <a href="http://www.gpo.gov/fdsys/pkg/FR-2011-05-02/pdf/2011-10732.pdf">Executive Order 13571</a>, and part of the Whitehouse CIO's strategy, entitled "<a title="Digital Government: Building a 21st Century Platform to Better Serve the American People" href="http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf">Digital Government: Building a 21st Century Platform to Better Serve the American People</a>"--I'm pumped up about the potential for our government to change and evolve.</p>
-<p>To help support this move by the Federal Government to an API driven architecture I wanted to provide two things:</p>
-<ol class="mainlist">
-<li><strong><a href="http://blog.apievangelist.com/2012/06/02/thoughts-for-federal-agencies-about-to-deploy-web-apis/">Oversight</a></strong> - A single page to get at information about this iniative, and hopefully some day it could evolve and be a programmatic discovery service for our Federal Government.</li>
-<li><strong>Business of APIs</strong> - A simple guide to deploying each Federal Agencies, touching on the technical points, but emphasizing on the business building blocks that will be essential to each agency being successful.</li>
-</ol>
-p>Our federal government's Digital Strategy will be an ongoing project. &nbsp;To help track the progress I've built a monitoring system that will check nightly for each federal department or agencies digital strategy, parse each item and track on progress. &nbsp;As each agencies digital strategy evolves I will build in more tools for monitoring and engaging, as well as aggregating across all departments and agencies.</p>
+<p>After reading <a title="Barack Obamas Presidential directive that every Federal Government agency should have an API" href="http://blog.apievangelist.com/2012/06/01/barak-obama-directs-all-federal-agencies-to-have-an-api/">Barack Obamas Presidential directive that every Federal Government agency should have an API</a>, following <a href="http://www.gpo.gov/fdsys/pkg/FR-2011-05-02/pdf/2011-10732.pdf">Executive Order 13571</a>, and part of the Whitehouse CIO's strategy, entitled "<a title="Digital Government: Building a 21st Century Platform to Better Serve the American People" href="http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf">Digital Government: Building a 21st Century Platform to Better Serve the American People</a>"--I'm excited about the potential for our government to change and evolve.</p>
+<p>To help track the progress I've built a <a href="http://www.apievangelist.com/federal_government.php" target="_blank">monitoring system</a> that I run nightly to see if each federal department or agencies has published theirdigital strategy. I am still evolving how I monitor, consume and publish data around the Federal Government.</p>
+<p>I will be publishing as much of my work here as I can, including the research, stories, JSON data and the scripts I use to make it all happen.  So far I have the following PHP scripts that I use to pull each agencies digital strategy:</p>
+<ul class="mainlist">
+    <li>Pull Federal Agencies Digital Strategy (PHP)</li>
+</ul>
+<p>I have a crude MySQL table structure I put the federal agencies, their social and digital strategies into.  You can find the SQL Script here.</p>
+<p>Once I have all the data about federal agencies, their social accounts and their digital strategy into a single database I do several things with it currently:</p>
+<ul class="mainlist">
+    <li>Publish List of Federal Agencies (JSON) (PHP Script)</li>
+    <li>Publish List of Federal Agencies w/ Social (JSON) (PHP Script)</li>
+    <li>Publish List of Federal Agencies w/ Digital Strategy (JSON) (PHP Script)</li>
+    <li>Publish List of Federal Agencies w/ Digital Strategy & Social (JSON) (PHP Script)</li>    
+</ul>
+ <p>I pull all the federal agencies originally from the <a href="http://www.usa.gov/About/developer-resources/federal-agency-directory/index.shtml" target="_blank">Federal Agency Directory API</a>, and each agencies social data using the <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml" target="_blank">Feeral Social Media Registry API</a>.</p>
+ <p>You can view all agencies, and all agencies with their digital strategy on this site.  Since this project is hosted at Github you can also fork the project and use the data for your own objectives.</p>
