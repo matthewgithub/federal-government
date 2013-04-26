@@ -36,6 +36,7 @@ function getCompanyDetails(thisagencyid)
             
             if(thisagencyid == agency_id)
                 {
+                    
                 var template = $('#agencyTemplate').html();
                 var html = Mustache.to_html(template, val);
                 $('#agencyDetail').append(html);     
@@ -54,7 +55,8 @@ function getCompanyDetails(thisagencyid)
                      description = val['description'];
                      $('#seven-'+agency_id).append('<li><strong>' + name+  '</strong> - ' + description + '</li>');  
                 });
-
+                
+                }
             });                                    
         });
     }  
