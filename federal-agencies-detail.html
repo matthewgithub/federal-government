@@ -31,7 +31,7 @@ title: Companies
 
 function getCompanyDetails(thisagencyid)
     {
-     $.getJSON('data/federal-agencies.json', function(data) { 
+    $.getJSON('data/federal-agencies-digital-strategy.json', function(data) {
          $.each(data['agencies'], function(key, val) {
             
             agency_id = val['agency_id']; 
