@@ -1,0 +1,1259 @@
+[
+   {
+       "title": "IMLS Data Catalog",
+        "description": "Version 0.0",
+        "keyword": "catalog",
+        "modified": "2013-11-25",
+        "publisher": "Institute of Museum and Library Services",
+        "contactPoint": "Justin Grimes",
+        "mbox": "jgrimes@imls.gov",
+        "identifier": "DC0000",
+        "accessLevel": "public",
+        "dataDictionary": "http://project-open-data.github.io/schema/",
+        "accessURL": "http://imls.gov/data.json",
+        "format": "json",
+        "license": "public domain",
+        "bureauCode": ["474:00"], 
+    	"programCode":["000:000"]
+  },
+  {
+    "title": "Public Library Survey (PLS) 2011",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2011",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2011_pls_data_file_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld11b_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld11b_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld11b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld11b_sas.zip",
+		"format": [{
+			"label": "SAS",
+			"value": "application/zip"
+			}]
+    	}],
+    "license": "public domain",
+    "size": "2,945 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2010",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2010",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2010_pls_data_file_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld10a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld10a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld10a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld10a_sas.zip",
+		"format": [{
+			"label": "SAS",
+			"value": "application/zip"
+			}]
+    	}],
+    "license": "public domain",
+
+    "size": "2,901 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2009",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2009",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2009_pls_data_file_documentation.pdf",
+	"distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld09a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld09a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld09a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    	}],
+    "license": "public domain",
+    "size": "2,898 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+    "modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2008",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2008",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2008_pls_data_file_documentation.pdf",
+	"distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld08a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld08a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld08a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "2,889 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2007",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2007",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2007_pls_database_documentation.pdf",
+	"distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld07a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld07a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld07a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "2,776 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2006",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2006",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2006_pls_data_file_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld06a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld06a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld06a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+
+    "size": "2,200 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2005",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2005",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2005_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld05a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld05a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld05a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+
+    "size": "2,145 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+	 "modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2004",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2004",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2004_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld04a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld04a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld04a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "2,116 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2003",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2003",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2003_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld03a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld03a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld03a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "2,028 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2002",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2002",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2002_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld02b_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld02b_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld02b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,910 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2001",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2001",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2001_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld01b_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld01b_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld01b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,874 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 2000",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL2000",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy2000_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldF00_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldF00_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldF00_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,849 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1999",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1999",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1999_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf99_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf99_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf99_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,818 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1998",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1998",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1998_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf98_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf98_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupldf98_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,715 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1997",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1997",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1997_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld97a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld97a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld97a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,747 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1996",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1996",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1996_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld96a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld96a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld96a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,678 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1995",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1995",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1995_pls_database_documentation.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld95a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld95a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld95a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,650 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1994",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1994",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1994_pls_database_documentation.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld94a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld94a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld94a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,619 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1993",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1993",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1993_pls_database_documentation.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld93a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld93a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld93a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,615 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "Public Library Survey (PLS) 1992",
+    "description": "Public Library Survey (PLS) provides national descriptive data on the status of public libraries in the United States & its territories. ",
+    "keyword" : [ "library", "survey", "pls", "survey" ],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "PL1992",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/fy1992_pls_database_documentation.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld92a_csv.zip",
+		"format": [{
+			"label": "csv",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld92a_xls.zip",
+		"format": [{
+			"label": "xls",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/pupld92a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "1,595 KB",
+    "landingPage": "http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2010",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2010",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2010_2.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla10a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla10a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "27 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2009",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2009",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2009.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla09a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla09a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "24 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+	 "modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2008",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2008",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2008.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla08a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla08a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "24 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2007",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2007",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2007.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla07a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla07a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "23 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2006",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2006",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2006.pdf",
+   "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla06a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla06a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "24 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2005",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2005",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2005.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla05a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla05a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "24 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2004",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2004",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2004.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla04a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla04a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "31 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2003",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2003",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2003.pdf",
+    "distribution": [ {
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla03b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla03b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+    }],
+    "license": "public domain",
+    "size": "31 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2002",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2002",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2002.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla02a_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla02a_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "30 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2001",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2001",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2001.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla01b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla01b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "30 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+	 "modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 2000",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL2000",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc2000.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla00b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla00b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "30 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1999",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1999",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1999.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla99b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla99b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "30 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1998",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA).",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1998",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1998.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla98b_ascii.zip",
+		"format": [{
+			"label": "txt",
+			"value": "application/zip"
+			}]
+		},{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla98b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "30 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1997",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1997",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1997.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla97b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+			}]
+	}],
+    "license": "public domain",
+    "size": "56 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1996",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1996",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1996.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla96b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+		}]
+	}],
+    "license": "public domain",
+    "size": "57 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+ 	"modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1995",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1995",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1995.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla95b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+		}]
+	}],
+    "license": "public domain",
+    "size": "47 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+    "modified": "2013-11-25"
+  },
+  {
+    "title": "State Library Agency Survey (SLAA) 1994",
+    "description": "The State Library Agency Survey (SLAA) provides descriptive data about state library agencies for all fifty states and the District of Columbia. A state library agency is the official agency of a state that is charged by state law with the extension and development of public library services throughout the state and that has adequate authority under state law to administer state plans in accordance with the provisions of the Library Services and Technology Act (LSTA). ",
+    "keyword": ["library", "survey", "state", "lsta", "slaa", "survey"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "SL1994",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/StLADataDoc1994.pdf",
+    "distribution": [{
+		"accessURL": "http://www.imls.gov/assets/1/AssetManager/istla94b_access.zip",
+		"format": [{
+			"label": "MS Access",
+			"value": "application/zip"
+		}]
+	}],
+    "license": "public domain",
+    "size": "49 KB",
+    "landingPage": "http://www.imls.gov/research/state_library_agency_survey.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+    "modified": "2013-11-25"
+  },
+  {
+    "title": "Museums Universe Data File (MUDF)",
+    "description": "The Museum Universe Data File (MUDF) contains information about known museums in the United States using data collected and aggregated from a variety of sources.",
+    "keyword": ["museums","museum"],
+    "publisher": "Institute of Musem and Library Services",
+    "contactPoint": "Justin Grimes",
+    "mbox": "jgrimes@imls.gov",
+    "identifier": "MF2013",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.imls.gov/assets/1/AssetManager/Museum_Universe_Data_File_051313.pdf",
+    "accessURL": "http://www.imls.gov/assets/1/AssetManager/mudf_051313.zip",
+    "format": "application/zip",
+    "license": "public domain",
+    "size": "1.9MB",
+    "landingPage": "http://www.imls.gov/research/museum_universe_data_file.aspx",
+    "bureauCode": ["474:00"], 
+    "programCode":["000:000"],
+    "modified": "2013-11-25"
+  }
+]

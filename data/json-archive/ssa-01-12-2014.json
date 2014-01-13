@@ -1,0 +1,3926 @@
+[
+  {
+    "title": "Benefits Data from the Benefits and Earnings Public Use File, 2004",
+    "description": "This file contains Benefits data and is part of a set of two separate but associated subfiles, one with Social Security benefit information and the other with longitudinal earnings information. Sample beneficiary records drawn from the Old-Age, Survivors, and Disability Insurance (OASDI) program can be linked to their corresponding earnings histories.",
+    "keyword": [
+      "OASDI",
+      "Social Security",
+      "old-age",
+      "survivors",
+      "disability",
+      "social insurance",
+      "Social Security covered earnings",
+      "Social Security benefits",
+      "benefits",
+      "beneficiary",
+      "entitlement",
+      "earnings histories"
+    ],
+    "modified": "2005-10-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Cherice Jefferies",
+    "mbox": "Cherice.H.Jefferies@ssa.gov",
+    "identifier": "US-GOV-SSA-293",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/microdata/earn/benefits04text.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "Social Security beneficiaries worldwide",
+    "temporal": "2004-12-01/2004-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/microdata/earn/earn_dictionary.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/microdata/earn/earn_dictionary.pdf"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/policy/docs/microdata/earn/benefits04text.zip",
+        "size": "5MB"
+      }
+    ]
+  },
+  {
+    "title": "Earnings Data from the Benefits and Earnings Public-Use File, 2004 ",
+    "description": "This file contains Earnings data and is part of a set of two separate but associated subfiles, one with Social Security benefit information and the other with longitudinal earnings information. Sample beneficiary records drawn from the Old-Age, Survivors, and Disability Insurance (OASDI) program can be linked to their corresponding earnings histories.",
+    "keyword": [
+      "OASDI",
+      "Social Security",
+      "old-age",
+      "survivors",
+      "disability",
+      "social insurance",
+      "Social Security covered earnings",
+      "Social Security benefits",
+      "earnings",
+      "beneficiary",
+      "entitlement",
+      "earnings histories"
+    ],
+    "modified": "2005-10-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Michael Compson",
+    "mbox": "Michael.Compson@ssa.gov",
+    "identifier": "US-GOV-SSA-294",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/microdata/earn/earnings04text.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "Social Security beneficiaries worldwide",
+    "temporal": "2004-12-01/2004-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/microdata/earn/earn_dictionary.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/microdata/earn/earn_dictionary.pdf"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/policy/docs/microdata/earn/earnings04text.zip",
+        "size": "26MB"
+      }
+    ]
+  },
+  {
+    "title": "National Beneficiary Survey (NBS) Round 2",
+    "description": "A cross-sectional survey of a nationally representative sample of 4,864 social security beneficiaries age 18-64 receiving disability benefits in active pay status as of June 2004. The NBS collects data on: 1. work-relevant characteristics of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) beneficiaries; 2. work-related goals and activities of SSDI and SSI beneficiaries, particularly as they relate to implementation of the Ticket to Work program; and 3. service use, barriers to work, and perceptions about TTW and other SSA programs designed to help beneficiaries with disabilities find and keep jobs.",
+    "keyword": [
+      "Social Security Disability Insurance (SSDI)",
+      "Supplemental Security Income (SSI)",
+      "Social Security",
+      "Social Security benefits",
+      "Disability",
+      "Ticket to Work (TTW)",
+      "Employment",
+      "Employment Services",
+      "Public Benefits",
+      "Return-to-work",
+      "social insurance",
+      "entitlement"
+    ],
+    "modified": "2010-01-08",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Elaine Gilby",
+    "mbox": "elaine.gilby@ssa.gov",
+    "identifier": "US-GOV-SSA-295",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/r2puf102609.CSV",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "beneficiaries in all 50 states and the District of Columbia",
+    "temporal": "2004/2005",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/publicusefiles.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/r2puf102609.CSV",
+        "size": "6.5 MB"
+      }
+    ]
+  },
+  {
+    "title": "Old Age, Survivors, and Disability Insurance (OASDI) Public-Use Microdata File, 2001 Data",
+    "description": "The OASDI Public-Use Microdata File contains an extract of data fields from SSAu0027s Master Beneficiary Record file and consists of a 1 percent random, representative sample of persons entitled to receive an OASDI benefit payment for December 2001. This file contains approximately 460,000 records, with 16 data fields on each record. Updated beneficiary information is also included in a sub-file of, Benefits Data for the Benefit and Earnings Public Use File, 2004 (Dataset Unique ID 56).",
+    "keyword": [
+      "OASDI",
+      "Social Security",
+      "old-age",
+      "survivors",
+      "disability",
+      "social insurance",
+      "Social Security benefits",
+      "benefits",
+      "beneficiary",
+      "entitlements"
+    ],
+    "modified": "2003-10-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Cherice Jefferies",
+    "mbox": "Cherice.H.Jefferies@ssa.gov",
+    "identifier": "US-GOV-SSA-296",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/microdata/mbr/mbr_csv.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "Social Security beneficiaries worldwide",
+    "temporal": "2001-12-01/2001-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/microdata/mbr/mbr_dictionary.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/microdata/mbr/index.html"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/policy/docs/microdata/mbr/mbr_csv.zip",
+        "size": "38.3 MB unzipped"
+      }
+    ]
+  },
+  {
+    "title": "National Beneficiary Survey (NBS) Round 1",
+    "description": "A cross-sectional survey of a nationally representative sample of 6,520 social security beneficiaries age 18-64 receiving disability benefits in active pay status as of June 2003.  The NBS collects data on: 1. work-relevant characteristics of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) beneficiaries; 2.  work-related goals and activities of SSDI and SSI beneficiaries, particularly as they relate to implementation of the Ticket to Work program; and 3.  service use, barriers to work, and perceptions about TTW and other SSA programs designed to help beneficiaries with disabilities find and keep jobs.",
+    "keyword": [
+      "SSDI",
+      "SSI",
+      "Social Security",
+      "Social Security benefits",
+      "Disability",
+      "Ticket to Work",
+      "Employment",
+      "Employment Services",
+      "Public Benefits",
+      "Return-to-work",
+      "social insurance",
+      "entitlement"
+    ],
+    "modified": "2010-01-11",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Elaine Gilby",
+    "mbox": "elaine.gilby@ssa.gov",
+    "identifier": "US-GOV-SSA-297",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/r1puf093009.CSV",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "beneficiaries in all 50 states and the District of Columbia",
+    "temporal": "2003/2004",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/publicusefiles.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/r1puf093009.CSV",
+        "size": "6.5"
+      }
+    ]
+  },
+  {
+    "title": "Supplemental Security Income Public-Use Microdata File, 2001 Data",
+    "description": "The SSI Public-Use Microdata File contains an extract of data fields from SSAu0027s Supplemental Security Record file and consists of a 5 percent random, representative sample of persons who received a federal SSI benefit in December 2001. This file contains approximately 320,000 records, with 13 data fields on each record.",
+    "keyword": [
+      "Supplemental Security Insurance",
+      "SSI",
+      "Social Security",
+      "old-age",
+      "aged",
+      "blind",
+      "disability",
+      "social insurance",
+      "Social Security benefits",
+      "benefits",
+      "beneficiary",
+      "entitlements"
+    ],
+    "modified": "2003-10-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-298",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/policy/docs/microdata/ssr/ssr_csv.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "Supplemental Security Income beneficiaries in the United States and U.S. territories",
+    "temporal": "2001-12-01/2001-12-31",
+    "dataDictionary": "http://www.socialsecurity.gov/policy/docs/microdata/ssr/ssr_dictionary.pdf",
+    "references": [
+      "http://www.socialsecurity.gov/policy/docs/microdata/ssr/index.html"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.socialsecurity.gov/policy/docs/microdata/ssr/ssr_csv.zip",
+        "size": "22.1MB unzipped"
+      }
+    ]
+  },
+  {
+    "title": "ALJ Disposition Data",
+    "description": "A listing of hearings completion data by name of individual administrative law judges (ALJ) for all ALJs in ODAR.  The data includes hearing office name, total dispositions, decisions, allowances, denials and fully favorable or partially favorable decisions.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security disability benefits",
+      "hearings",
+      "ALJ",
+      "administrative law judge",
+      "dispositions",
+      "decisions",
+      "denials",
+      "allowances",
+      "favorable decisions",
+      "hearing offices"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-299",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/03_ALJ_Disposition_Data.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/03_ALJ_Disposition_Data.xml",
+        "size": "616 KB"
+      }
+    ]
+  },
+  {
+    "title": "Hearing Office Dispositions Per ALJ Per Day Rate Ranking Report",
+    "description": "A ranking of ODAR hearing offices by the average number of hearings dispositions per ALJ per day.  The average shown will be a combined average for all ALJs working in that hearing office.  Users will be able determine where a particular hearing office stands among the total with respect to this workload category.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "hearing offices",
+      "hearings decisions",
+      "ALJ",
+      "administrative law judge",
+      "hearings dispositions",
+      "dispositions per ALJ",
+      "ranking report",
+      "rankings"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-300",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/04_Disposition_Per_Day_Per_ALJ_Ranking_Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/04_Disposition_Per_Day_Per_ALJ_Ranking_Report.xml",
+        "size": "42.2 KB"
+      }
+    ]
+  },
+  {
+    "title": "Hearings Held In-Person or Via Video Conferencing",
+    "description": "A listing by hearing office of the number of hearings held either in-person or by video-conferencing.  ",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "hearings",
+      "hearings and appeals",
+      "hearing offices",
+      "video hearings",
+      "video conference",
+      "ALJ",
+      "administrative law judge",
+      "in-person"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-301",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/06_Hearings_Held_InPerson_Video_Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/06_Hearings_Held_InPerson_Video_Report.xml",
+        "size": "36 KB"
+      }
+    ]
+  },
+  {
+    "title": "Hearing Office Average Processing Time Ranking Report",
+    "description": "A ranking of ODAR hearing offices by the average number of days until final disposition of the hearing request. The average shown will be a combined average for all cases completed in that hearing office.  Users will be able determine where a particular hearing office stands among the total with respect to this workload category.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "hearing offices",
+      "hearings decisions",
+      "processing time",
+      "hearings dispositions",
+      "ranking report",
+      "rankings"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-302",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/05_Average_Processing_Time_Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/05_Average_Processing_Time_Report.xml",
+        "size": "40.3 KB"
+      }
+    ]
+  },
+  {
+    "title": "Hearing Office Workload Data",
+    "description": "A presentation of four key workload indicators (pending, receipts, dispositions and average processing time) for each hearing office in the Office of Disability Adjudication and Review (ODAR.) ",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "hearing offices",
+      "processing time",
+      "hearings pending",
+      "hearings receipts",
+      "hearings decisions"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-303",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/02_HO_Workload_Data.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/02_HO_Workload_Data.xml",
+        "size": "111 KB"
+      }
+    ]
+  },
+  {
+    "title": "Average Wait Time Until Hearing Held Report (formerly NETSTAT Report)",
+    "description": "A presentation of the average time (in months) from the hearing request date until a hearing is held for claims pending in the Office of Disability Adjudication and Reviewu0027s hearing offices.  Allows users to estimate the amount  of time they may have to wait for a hearing to be held.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security benefits",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "average processing times",
+      "hearing wait times",
+      "Social Security Appeals Council",
+      "requests for review",
+      "requests for hearings",
+      "hearings and appeals decisions"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-304",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/01_NetStat_Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/appeals/publicusefiles.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/01_NetStat_Report.xml",
+        "size": ".0205 MB"
+      }
+    ]
+  },
+  {
+    "title": "National Beneficiary Survey (NBS) Round 3",
+    "description": "A cross-sectional survey of a nationally representative sample of social security beneficiaries age 18-64 receiving disability benefits in active pay status as of June 2005.  The NBS collects data on: 1. work-relevant characteristics of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) beneficiaries; 2.  work-related goals and activities of SSDI and SSI beneficiaries, particularly as they relate to implementation of the Ticket to Work program; and 3.  service use, barriers to work, and perceptions about TTW and other SSA programs designed to help beneficiaries with disabilities find and keep jobs.   ",
+    "keyword": [
+      "SSDI",
+      "SSI",
+      "Social Security",
+      "Social Security benefits",
+      "Disability",
+      "Ticket to Work",
+      "Employment",
+      "Employment Services",
+      "Public Benefits",
+      "Return-to-work",
+      "social insurance",
+      "entitlement"
+    ],
+    "modified": "2010-01-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Elaine Gilby",
+    "mbox": "elaine.gilby@ssa.gov",
+    "identifier": "US-GOV-SSA-305",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/NBSr3puf121509.CSV",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "beneficiaries in all 50 states and the District of Columbia",
+    "temporal": "2005/2006",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/publicusefiles.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/NBSr3puf121509.CSV",
+        "size": "2.5 MB"
+      }
+    ]
+  },
+  {
+    "title": "2008 Freedom of Information Act (FOIA) Annual Report",
+    "description": "This file contains the Social Security Administrationu0027s 2008 FOIA Annual Report.  The report provides detailed information regarding the number and type of FOIA cases we processed in FY 2008.  It also includes data regarding time and costs associated with processing these cases.",
+    "keyword": [
+      "FOIA",
+      "Annual Report"
+    ],
+    "modified": "2009-02-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debbie Verzi",
+    "mbox": "debbie.verzi@ssa.gov",
+    "identifier": "US-GOV-SSA-306",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/foia/html/FY08CSV.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2007-10-1/2008-09-30",
+    "dataDictionary": "http://www.ssa.gov/foia/",
+    "references": [
+      "http://www.ssa.gov/foia/"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/foia/html/FY08CSV.csv",
+        "size": "20kb"
+      }
+    ]
+  },
+  {
+    "title": "SSA State Agency Workload Data",
+    "description": "The dataset is revised and expanded from 4 to 71 data fields.  It includes monthly data from October 2000 onwards for SSA disability cases that were referred to the state agency for a disability determination.  When first released, initial claims information was available, but now new information is included on reconsideration and continuing disability review cases, with breakouts by claim title (SSDI, SSI) for each case type.  Specific data elements for each state are receipts, end of month pending  counts, decisions, and the number of decisions which were allowances.  ",
+    "keyword": [
+      "SSA",
+      "State Agency",
+      "DDS",
+      "disability",
+      "initial disability claim",
+      "receipts",
+      "pending",
+      "decisions",
+      "allowances"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Jim Twist",
+    "mbox": "jim.twist@ssa.gov",
+    "identifier": "US-GOV-SSA-307",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/disability/data/SSA-SA-MOWL.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "USA by State and equivalent",
+    "temporal": "1999-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/disability/data/ssa-sa-mowl.htm#DataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/disability/data/ssa-sa-mowl.htm#TechnicalDocumentation"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/disability/data/SSA-SA-MOWL.csv",
+        "size": "1.0"
+      }
+    ]
+  },
+  {
+    "title": "SSA Disability Claim Data",
+    "description": "The dataset includes fiscal year data for initial claims for SSA disability benefits that were referred to a state agency for a disability determination.  Specific data elements for each year and state include receipts, determinations, eligible population, and favorable determination rates.",
+    "keyword": [
+      "SSA",
+      "State Agency",
+      "DDS",
+      "disability",
+      "initial disability claim",
+      "receipts",
+      "determinations",
+      "decisions",
+      "allowances",
+      "allowance rate",
+      "favorable determination",
+      "beneficiary population",
+      "eligible population",
+      "filing rate"
+    ],
+    "modified": "2010-01-19",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Jim Twist",
+    "mbox": "jim.twist@ssa.gov",
+    "identifier": "US-GOV-SSA-308",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/disability/data/SSA-SA-FYWL.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "USA by State and equivalent",
+    "temporal": "2000-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/disability/data/ssa-sa-fywl.htm#DataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/disability/data/ssa-sa-fywl.htm#TechnicalDocumentation"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/disability/data/SSA-SA-FYWL.csv",
+        "size": "1.0"
+      }
+    ]
+  },
+  {
+    "title": "2009 Freedom of Information Act (FOIA) Annual Report",
+    "description": "This file contains the Social Security Administrationu0027s 2009 FOIA Annual Report.  The report provides detailed information regarding the number and type of FOIA cases we processed in FY 2009.  It also includes data regarding time and costs associated with processing these cases.",
+    "keyword": [
+      "FOIA",
+      "Annual Report"
+    ],
+    "modified": "2010-02-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debbie Verzi",
+    "mbox": "debbie.verzi@ssa.gov",
+    "identifier": "US-GOV-SSA-309",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/foia/html/Annual%20Report%202009.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2008-10-1/2009-09-30",
+    "dataDictionary": "http://www.ssa.gov/foia/",
+    "references": [
+      "http://www.ssa.gov/foia/"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/foia/html/Annual%20Report%202009.xml",
+        "size": "20kb"
+      }
+    ]
+  },
+  {
+    "title": "Table 11  Average Monthly Payments for Federally Administered SSI Payments, by State or Other Area, Eligibility Category, and Age, December 2008 (in dollars)",
+    "description": "A statistical table of the average monthly payments of recipients entitled to receive payments under Title 16 of the Social Security Act(Supplemental Security Income) by state, eligibility category and age group.",
+    "keyword": [
+      "SSA",
+      "Social Security",
+      "SSI",
+      "old age",
+      "disability",
+      "social security benefits",
+      "federally administered payments",
+      "entitlements",
+      "needs based"
+    ],
+    "modified": "2009-09-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-310",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table11.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "Supplemental Security Income recipients nationwide including U.S. territories.",
+    "temporal": "2008-12-01/",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/glossary.html",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/index.html"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table11.xls",
+        "size": "0.27"
+      }
+    ]
+  },
+  {
+    "title": "Table 5 Federally Administered SSI Payments by Type of Payment, Sex, Eligibility Category, and Age, December 2008",
+    "description": "A statistical table of the number of recipients entitled to receive payments under Title 16 of the Social Security Act (Supplemental Security Income), total payments, and average monthly payments.",
+    "keyword": [
+      "SSA",
+      "Social Security",
+      "SSI",
+      "disability",
+      "federally administered payments",
+      "social security benefits",
+      "entitlements",
+      "needs based"
+    ],
+    "modified": "2009-09-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-311",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table05.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "Supplemental Security Income recipients nationwide including U.S. territories",
+    "temporal": "2008-12-01/",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/glossary.html",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/index.html"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table05.xls",
+        "size": "0.19"
+      }
+    ]
+  },
+  {
+    "title": "Table 10 Federally Administered SSI Payments, Recipients by State and Other Area, Eligibility Category, and Age, December 2008",
+    "description": "A statistical table of the number of recipients entitled to receive payments under Title 16 of the Social Security Act(Supplemental Security Income) by eligibility category , age group and state.",
+    "keyword": [
+      "SSA",
+      "Social Security",
+      "SSI",
+      "old age",
+      "disability",
+      "social security benefits",
+      "federally administered payments",
+      "entitlements",
+      "needs based"
+    ],
+    "modified": "2009-09-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-312",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table10.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "Supplemental Security Income recipients nationwide including U.S. territories.",
+    "temporal": "2008-12-01/",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/glossary.html",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/index.html"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/table10.xls",
+        "size": "0.27"
+      }
+    ]
+  },
+  {
+    "title": "Table 2. Average Monthly Social Security Benefits of Disabled Beneficiaries and Nondisabled Dependents by Basis of Entitlement, Age, and Sex, December 2008",
+    "description": "A statistical table reporting the number of beneficiaries entitled to receive benefits under Title 2 of the Social Security Act (OASDI) and average monthly payment.",
+    "keyword": [
+      "SSA",
+      "Social Security",
+      "OASDI",
+      "old age",
+      "disability",
+      "survivors",
+      "social insurance",
+      "social security benefits",
+      "entitlements"
+    ],
+    "modified": "2009-07-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-313",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/table02.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "Social Security beneficiaries world wide",
+    "temporal": "2008-12-01/",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/glossary.html",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/index.html"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/table02.xls",
+        "size": "25KB"
+      }
+    ]
+  },
+  {
+    "title": "Table 27  Number of Disabled Workers Receiving Social Security Benefits by Sex, State or Other Area, and Age, December 2008",
+    "description": "A statistical table  reporting the number of beneficiaries entitled to receive benefits under Title 2 of the Social Security Act (OASDI) state, age group and gender.",
+    "keyword": [
+      "SSA",
+      "Social Security",
+      "disability",
+      "social insurance",
+      "social security benefits",
+      "entitlements"
+    ],
+    "modified": "2009-07-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Angela Harper",
+    "mbox": "Angela.Y.Harper@ssa.gov",
+    "identifier": "US-GOV-SSA-314",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/table27.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "Social Security beneficiaries world wide",
+    "temporal": "2008-12-01/",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/glossary.html",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/index.html"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2008/table27.xls",
+        "size": "0.4"
+      }
+    ]
+  },
+  {
+    "title": "Change of Address Applications filed via the Internet",
+    "description": "This dataset provides monthly volumes at the national level from federal fiscal year 2008 onwards for Internet Change of Address. The dataset includes only Internet Change of Address transactions. It should be noted that, in addition to using our online Change of Address application, the public might change an address by calling our 800 number, visiting a field office, or mailing us the request.  This dataset pertains only to the online alternative.",
+    "keyword": [
+      "Online Change of Address Application",
+      "Internet Change of Address",
+      "Percentage of Total Applications Filed Online",
+      "SSA Internet Services"
+    ],
+    "modified": "2010-12-20",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-315",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/fy08-present-coa-internet-usage.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2007-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/change-of-address-online-apps.html#dataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/change-of-address-online-apps.html#datasetDescription"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-coa-internet-usage.csv",
+        "size": "1.5 KB"
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-coa-internet-usage.xlsx",
+        "size": "9.5 KB"
+      }
+    ]
+  },
+  {
+    "title": "Direct Deposit Applications filed via the Internet",
+    "description": "This dataset provides monthly volumes at the national level from federal fiscal year 2008 onwards for Internet Direct Deposit applications. The dataset includes only Internet Direct Deposit transactions. It should be noted that, in addition to using our online Direct Deposit application, the public might also call our 800 number, visit a field office,  or request a change of direct deposit by mail.  This data set pertains only to the online alternative.",
+    "keyword": [
+      "Direct Deposit Applications",
+      "Internet Direct Deposit",
+      "Online Direct Deposit Application",
+      "Percentage of Total Applications Filed Online",
+      "SSA Internet Services"
+    ],
+    "modified": "2010-12-20",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-316",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/fy08-present-dd-internet-usage.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2007-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/direct-deposit-online-apps.html#dataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/direct-deposit-online-apps.html#datasetDescription"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-dd-internet-usage.csv",
+        "size": "1.5 KB"
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-dd-internet-usage.xlsx",
+        "size": "9.5 KB"
+      }
+    ]
+  },
+  {
+    "title": "Initial Disability Insurance Applications filed via the Internet",
+    "description": "This dataset provides monthly data at the national level from federal fiscal year 2008 - 2011 for initial Social Security Disability Insurance (SSDI) applications filed via the Internet. nnThe dataset includes only SSDI initial receipts.  SSDI initial receipt represent a worker in covered employment long enough and recently enough to be insured, meaning paid Social Security taxes.  Social Security work credits are based on total yearly wages or self-employment income.  The amount needed for a credit changes from year to year.  The number of work credits needed to qualify for disability benefits depends on age at disability onset.  Generally, 40 credits are needed, 20 of which were earned in the last 10 years ending with the year of disability onset.",
+    "keyword": [
+      "Disability Insurance Application",
+      "Online Disability Application",
+      "Disability Insurance Online",
+      "Disability Online",
+      "Percentage of Total Applications Filed Online",
+      "SSA Internet Services"
+    ],
+    "modified": "2013-02-06",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-317",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/fy08-present-dib-filed-via-internet.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2007-10/2011-09",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/initial-disability-insurance-online-apps.html#dataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/initial-disability-insurance-online-apps.html#datasetDescription"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-dib-filed-via-internet.csv",
+        "size": "3.2 KB"
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-dib-filed-via-internet.xlsx",
+        "size": "13.6 KB"
+      }
+    ]
+  },
+  {
+    "title": "Medicare Replacement Card Applications filed via the Internet",
+    "description": "This dataset provides monthly volumes at the national level from federal fiscal year 2008 onwards for Internet Medicare Replacement Card. The dataset includes only Internet Medicare Replacement Card transactions.  It should be noted that, in addition to using our online Internet Medicare Replacement Card application, the public might request a replacement card by calling our 800 number, visiting a field office, or mailing us the request.  This data set pertains only to the online alternative.",
+    "keyword": [
+      "Medicare Replacement Card",
+      "Internet Medicare Replacement Card",
+      "Percentage of Total Applications Filed Online",
+      "SSA Internet Services"
+    ],
+    "modified": "2010-12-20",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-318",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/fy08-present-mrc-internet-usage.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2007-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/medicare-replacement-card-online-apps.html#dataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/medicare-replacement-card-online-apps.html#datasetDescription"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-mrc-internet-usage.csv",
+        "size": "1.5 KB"
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-mrc-internet-usage.xlsx",
+        "size": "9.5 KB"
+      }
+    ]
+  },
+  {
+    "title": "Retirement Insurance Applications filed via the Internet",
+    "description": "This dataset provides monthly data at the national level from federal fiscal year 2008 - 2011 of Social Security Retirement Insurance applications filed via the Internet, and Social Security Retirement Insurance applications submitted via telephone, in person through a local SSA field office, or by mail that could be filed via the Internet.  Percentage of online applications is derived by dividing the number of retirement insurance applications filed via the Internet by the total number of retirement insurance applications that could be filed via the Internet. nn",
+    "keyword": [
+      "Retirement Applications",
+      "Online Retirement Services",
+      "Online Retirement",
+      "Online Application for Retirement",
+      "Retirement Insurance Applications",
+      "Percentage of Total Applications Filed Online",
+      "SSA Internet Services"
+    ],
+    "modified": "2013-02-06",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-319",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/fy08-present-rib-filed-via-internet.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2007-10/2011-09",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/retirement-insurance-online-apps.html#dataDictionary",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/retirement-insurance-online-apps.html#datasetDescription"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-rib-filed-via-internet.csv",
+        "size": "3.1 KB"
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy08-present-rib-filed-via-internet.xlsx",
+        "size": "13.6 KB"
+      }
+    ]
+  },
+  {
+    "title": "2010 Freedom of Information Act (FOIA) Annual Report",
+    "description": "This file contains the Social Security Administrationu0027s 2010 FOIA Annual Report.  The report provides detailed information regarding the number and type of FOIA cases we processed in FY 2010.  It also includes data regarding time and costs associated with processing these cases.n",
+    "keyword": [
+      "FOIA",
+      "Annual Report"
+    ],
+    "modified": "2010-12-23",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debbie Verzi",
+    "mbox": "debbie.verzi@ssa.gov",
+    "identifier": "US-GOV-SSA-320",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/foia/html/2010AnnualReport.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "Worldwiden",
+    "temporal": "2009-10-1/2010-09-30",
+    "dataDictionary": "http://www.ssa.gov/foia/",
+    "references": [
+      "http://www.ssa.gov/foia/"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/foia/html/2010AnnualReport.xml",
+        "size": "0.2"
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/foia/html/Annual%20Report%202010.pdf",
+        "size": "0.2"
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/foia/html/Annual%20Report2010.xls",
+        "size": "0.2"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Supplemental Security Income (SSI) Improper Payments",
+    "description": "This dataset shows the improper payment experience for the Supplementaln Security Income (SSI) program for fiscal year (FY) 2007 through FY 2011",
+    "keyword": [
+      "SSI",
+      "Improper Payments",
+      "Social Security",
+      "Federal Benefits",
+      "SSA",
+      "Needs Based Program"
+    ],
+    "modified": "2013-02-15",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Gary Greene",
+    "mbox": "gary.greene@ssa.gov",
+    "identifier": "US-GOV-SSA-321",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/improperpayments/documents/SSI_IP_Experience.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2006-10/2011-09",
+    "dataDictionary": "http://www.ssa.gov/finance/2009/Full%20FY%202009%20PAR.pdf",
+    "references": [
+      "http://www.ssa.gov/finance/2009/Full%20FY%202009%20PAR.pdf"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/improperpayments/documents/SSI_IP_Experience.xlsx",
+        "size": "28.5 KB"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Retirement, Survivors, and Disability Insurance (RSDI) Improper Payments",
+    "description": "This dataset shows improper payment experience for the Social Security Retirement, Survivors, and Disability  Insurance program paid to workers, their dependents, and survivors in fiscal year (FY) 2007 through FY 2011",
+    "keyword": [
+      "RSDI",
+      "Improper Payments",
+      "Retirement Insurance",
+      "Survivors Insurance",
+      "Disability Insurance",
+      "Social Security",
+      "Federal Benefits",
+      "SSA",
+      "Retirement"
+    ],
+    "modified": "2013-02-14",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Neuman Bankert",
+    "mbox": "neuman.bankert@ssa.gov",
+    "identifier": "US-GOV-SSA-322",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/improperpayments/documents/RSDIImproperPaymentsExperience.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2006-10/2011-09",
+    "dataDictionary": "http://www.ssa.gov/finance/2009/Full%20FY%202009%20PAR.pdf",
+    "references": [
+      "http://www.ssa.gov/finance/2009/Full%20FY%202009%20PAR.pdf"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/improperpayments/documents/RSDIImproperPaymentsExperience.xlsx",
+        "size": "28.5 KB"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data for National 800 Number Average Speed to Answer",
+    "description": "This data file provides information at the national level by month for federal fiscal years 2009 onwards for average speed to answer for calls to the National 800 Number Network.",
+    "keyword": [
+      "Social Security Administration",
+      "800 Number",
+      "Speed to Answer",
+      "SSA",
+      "Telephone Service"
+    ],
+    "modified": "2011-09-08",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-323",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/2009-and-2010-800-Number-Average-Speed-to-Answer.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States and  territories",
+    "temporal": "2008-10/2011-09",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/800-Number-Network.html",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/800-Number-Network.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/2009-and-2010-800-Number-Average-Speed-to-Answer.xlsx",
+        "size": "0.010187149"
+      },
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/2009-and-2010-800-Number-Average-Speed-to-Answer.csv",
+        "size": "0.000521660"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data for National 800 Number Average Busy Rate",
+    "description": "This data file provides information at the national level by month for federal fiscal years 2009, 2010, and 2011 for average busy rates for calls to the National 800 Number Network.",
+    "keyword": [
+      "Social Security Administration",
+      "800 Number",
+      "Busy Rate",
+      "SSA",
+      "Telephone Service"
+    ],
+    "modified": "2011-12-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-324",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/2009-and-2010-800-Number-Average-Busy-Rate.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States and  territories",
+    "temporal": "2008-10/2011-09",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/800-Number-Network.html",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/800-Number-Network.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.socialsecurity.gov/open/data/2009-and-2010-800-Number-Average-Busy-Rate.xlsx",
+        "size": "0.010930061"
+      },
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/2009-and-2010-800-Number-Average-Busy-Rate.csv",
+        "size": "0.001156807"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data for Enumeration Accuracy",
+    "description": "This dataset provides data at the national level from federal fiscal year 2006 onwards for the accuracy of the assignment of Social Security numbers (SSN) based on an end-of line sample review of transactions that result in the release of SSN cards.",
+    "keyword": [
+      "Social Security Administration",
+      "Social Security Numbers",
+      "Social Security Cards",
+      "Enumeration",
+      "Accuracy",
+      "Errors",
+      "SSN",
+      "SSA"
+    ],
+    "modified": "2011-09-08",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-325",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/Accuracy.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States, DC and territories",
+    "temporal": "2005-10/2011-09",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/Enumeration-Accuracy.html",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/Enumeration-Accuracy.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.socialsecurity.gov/open/data/FY-2006-2009-Accuracy.xls",
+        "size": "0.010921478"
+      },
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://socialsecurity.gov/open/data/FY-2006-2009-Accuracy.csv",
+        "size": "0.000996590"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data for Retirement and Survivor Insurance Applications, including Medicare Health Insurance Applications",
+    "description": "This dataset provides monthly data at the national level of Social Security Retirement, Survivors, Medicare Insurance applications filed and cleared.  ",
+    "keyword": [
+      "Medicare Health Insurance",
+      "Social Security Administration",
+      "Retirement",
+      "and Survivor Insurance",
+      "cash benefits",
+      "SSA"
+    ],
+    "modified": "2013-02-06",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-326",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://socialsecurity.gov/open/data/RSI_ReceiptsCompleted2.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2008-10/",
+    "dataDictionary": "http://www.socialsecurity.gov/open/data/RSI.html",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/RSI.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://socialsecurity.gov/open/data/RSI_ReceiptsCompleted2.csv",
+        "size": "0.000758171"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Percentage of Fast-Track Receipts",
+    "description": "The dataset provides the percentage of fast-track receipts by state during the reporting fiscal year. Fast-tracked cases consist of those cases identified as Quick Disability Determination (QDD), Compassionate Allowance (CAL), or both.",
+    "keyword": [
+      "fast-track",
+      "fast track",
+      "receipts",
+      "Quick Disability Determinations",
+      "QDD",
+      "Compassionate Allowances",
+      "CAL",
+      "SSA"
+    ],
+    "modified": "2013-09-13",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Shirleen Roth",
+    "mbox": "Shirleen.roth@ssa.gov",
+    "identifier": "US-GOV-SSA-327",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/Percent%20of%20Fast-Track%20Receipts.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "National, regional, state",
+    "temporal": "2009-10/2012-09",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/publicusefiles.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/Percent%20of%20Fast-Track%20Receipts.csv",
+        "size": "0.003995895"
+      }
+    ]
+  },
+  {
+    "title": "National Survey of SSI Children and Families (NSCF)",
+    "description": "The NSCF collected data on the health status and functional limitations, health care utilization, health insurance coverage, receipt of services, SSI experience, socioeconomic status of childrenu0027s households, and housing characteristics of over 8,000 children who were receiving, had received, or were applying for SSI.  The study is limited to the non-institutionalized population in the continental United States (i.e., it does not include residents of Alaska, Hawaii, and US territories).  Data collection began in July 2001 and ended in July 2002.",
+    "keyword": [
+      "Supplemental Security Income",
+      "SSI",
+      "children",
+      "disability"
+    ],
+    "modified": "2012-03-14",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Jeffrey Hemmeter",
+    "mbox": "Jeffrey.Hemmeter@ssa.gov",
+    "identifier": "US-GOV-SSA-328",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/nscf/Data%20Files/NSCF_PUF_2012.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "Contiguous United States",
+    "temporal": "2001/2002",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/nscf/Documentation/NSCF_PUF_Data_Dictionary.pdf, http://www.ssa.gov/disabilityresearch/nscf/Documentation/NSCF_PUF_Codebook.pdf",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/nscf.htm"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/nscf/Data%20Files/NSCF_PUF_2012.csv",
+        "size": "128MB"
+      }
+    ]
+  },
+  {
+    "title": "Help America Vote Verification (HAVV) Fact Sheet and Usage by State",
+    "description": "This dataset represents the results of the 4-digit match performed using the  Social Security - Help America Vote Verification (HAVV) system.",
+    "keyword": [
+      "Voter",
+      "Voters registration",
+      "HAVV",
+      "HAVA"
+    ],
+    "modified": "2013-11-12",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Idalia Ortiz",
+    "mbox": "Idalia.T.Ortiz@ssa.gov",
+    "identifier": "US-GOV-SSA-329",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/open/havv/HAVV-running-list.xls",
+    "webService": "",
+    "format": "application/vnd.ms-excel",
+    "license": "",
+    "spatial": "National",
+    "temporal": "2011-01-08/",
+    "dataDictionary": "http://www.socialsecurity.gov/open/havv/",
+    "references": [
+      "http://www.socialsecurity.gov/open/havv/"
+    ],
+    "formatDisplay": "XLS",
+    "distribution": [
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.socialsecurity.gov/open/havv/HAVV-running-list.xls",
+        "size": "0.9375 MB"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data on Overall Customer Service Satisfaction",
+    "description": "This dataset provides data at the national level for overall satisfaction of customers who have used one of the main methods for conducting business with SSA.",
+    "keyword": [
+      "Social Security",
+      "SSA",
+      "satisfaction",
+      "customer",
+      "service"
+    ],
+    "modified": "2013-03-12",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-330",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/SSA-Overall-Customer-Satisfaction.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "Varies by customeru0027s residence",
+    "temporal": "2007/",
+    "dataDictionary": "http://www.ssa.gov/open/data/Overall-Customer-Service-Satisfaction.html",
+    "references": [
+      "http://ssa.gov/open/data/Overall-Customer-Service-Satisfaction.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/SSA-Overall-Customer-Satisfaction.csv",
+        "size": "1361 bytes"
+      }
+    ]
+  },
+  {
+    "title": "2011 Annual FOIA Report",
+    "description": "This file contains the Social Security Administrationu0027s 2011 FOIA Annual Report. The report provides detailed information regarding the number and type of FOIA cases we processed in FY 2011. It also includes data regarding time and costs associated with processing these cases.",
+    "keyword": [
+      "SSA",
+      "FOIA"
+    ],
+    "modified": "2011-12-02",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debbie Verzi",
+    "mbox": "debbie.verzi@ssa.gov",
+    "identifier": "US-GOV-SSA-331",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/foia/html/2011%20Annual%20FOIA%20Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "Worldwide",
+    "temporal": "2010-10-01/2011-09-30",
+    "dataDictionary": "http://www.ssa.gov/foia/",
+    "references": [
+      "http://www.ssa.gov/foia/"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/foia/html/2011%20Annual%20FOIA%20Report.xml",
+        "size": "35kb"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Data for Extra Help with Medicare Prescription Drug Plan Cost",
+    "description": "This file contains information about Social Security determinations of eligibility for Extra Help with Medicare Prescription Drug Plan Costs.  Specific data elements are counts of Extra Help decisions made, counts of applicants found eligible for the Extra Help, and a percentage of Extra Help decisions found eligible by state.",
+    "keyword": [
+      "SSA",
+      "Medicare",
+      "prescription drugs",
+      "extra Help",
+      "Part D",
+      "low income subsidy"
+    ],
+    "modified": "2012-08-23",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-332",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/open/data/Extra-Help-with-Medicare-Prescription-Drug-Plan-Cost.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2009-10/2013-09",
+    "dataDictionary": "http://ssa.gov/open/data/Data-about-Extra-Help-with-Medicare-Prescription-Drug-Plan-Cost.html",
+    "references": [
+      "http://ssa.gov/open/data/Data-about-Extra-Help-with-Medicare-Prescription-Drug-Plan-Cost.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://ssa.gov/open/data/Extra-Help-with-Medicare-Prescription-Drug-Plan-Cost.csv",
+        "size": "14kb"
+      }
+    ]
+  },
+  {
+    "title": "National Beneficiary Survey (NBS) Round 4",
+    "description": "A cross-sectional survey of a nationally representative sample of social security beneficiaries age 18-64 receiving disability benefits in active pay status as of June 2009.  The NBS collects data on: 1. work-relevant characteristics of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) beneficiaries; 2.  work-related goals and activities of SSDI and SSI beneficiaries, particularly as they relate to implementation of the Ticket to Work program; and 3.  service use, barriers to work, and perceptions about TTW and other SSA programs designed to help beneficiaries with disabilities find and keep jobs.",
+    "keyword": [
+      "SSDI",
+      "SSI",
+      "Social Security",
+      "Social Security benefits",
+      "Disability",
+      "Ticket to Work",
+      "Employment",
+      "Employment Services",
+      "Public Benefits",
+      "Return-to-work",
+      "social insurance",
+      "entitlement"
+    ],
+    "modified": "2012-07-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Elaine Gilby",
+    "mbox": "elaine.gilby@ssa.gov",
+    "identifier": "US-GOV-SSA-333",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/disabilityresearch/documents/NBSR4PUF.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2009/2010",
+    "dataDictionary": "http://www.ssa.gov/disabilityresearch/publicusefiles.html",
+    "references": [
+      "http://www.ssa.gov/disabilityresearch/publicusefiles.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/disabilityresearch/documents/NBSR4PUF.csv",
+        "size": "2.0 MB"
+      }
+    ]
+  },
+  {
+    "title": "Data for Retirement Insurance Benefits Filed via the Internet",
+    "description": "This dataset provides information on the percentage of Social Security retirement applications filed via the internet.",
+    "keyword": [
+      "Retirement",
+      "internet",
+      "Social Security",
+      "online",
+      "benefits"
+    ],
+    "modified": "2013-01-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-334",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/open/data/fy12-onward-rib-filed-via-internet.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "World",
+    "temporal": "2011-10/",
+    "dataDictionary": "",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/retirement-insurance-online-apps-2012-onward.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy12-onward-rib-filed-via-internet.csv",
+        "size": "1300 bytes"
+      }
+    ]
+  },
+  {
+    "title": "Data for Disability Insurance Benefits Filed via the Internet",
+    "description": "This dataset provides information on the percentage of Social Security disability applications filed via the internet.",
+    "keyword": [
+      "Disability",
+      "internet",
+      "Social Security",
+      "online",
+      "benefits"
+    ],
+    "modified": "2013-01-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-335",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/open/data/fy12-onward-dib-filed-via-internet.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "World",
+    "temporal": "2011-10/",
+    "dataDictionary": "",
+    "references": [
+      "http://www.socialsecurity.gov/open/data/initial-disability-insurance-online-apps-2012-onward.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.socialsecurity.gov/open/data/fy12-onward-dib-filed-via-internet.csv",
+        "size": "1300 bytes"
+      }
+    ]
+  },
+  {
+    "title": "Earnings Public-Use File, 2006",
+    "description": "Social Security Administration released Earnings Public-Use File (EPUF) for 2006. File contains earnings information for individuals drawn from a systematic random 1-percent sample of all Social Security numbers (SSNs) issued before January 2007. EPUF consists of two linkable subfiles. One contains selected demographic and aggregate earnings information for all 4,348,254 individuals in the file, and the second contains annual earnings records for the 3,131,424 individuals who had positive earnings in at least 1 year from 1951 through 2006. ** Please Note: This data set is very large and will not work properly in Microsoft Excel. Data software capable of handling large files should be used.",
+    "keyword": [
+      "Earnings Public Use File",
+      "EPUF",
+      "Annual Earnings",
+      "Demographic Earnings",
+      "Social Security Taxable Earnings",
+      "Social Security benefits",
+      "earnings",
+      "beneficiary",
+      "disability",
+      "Demographic and Aggregate Earnings"
+    ],
+    "modified": "2011-08-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Michael Compson",
+    "mbox": "Michael.Compson@ssa.gov",
+    "identifier": "US-GOV-SSA-336",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/microdata/epuf/epuf2006_csv_files.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "",
+    "temporal": "1937/2006",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/microdata/epuf/epuf_dictionary.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/microdata/epuf/epuf_dictionary.pdf"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/policy/docs/microdata/epuf/epuf2006_csv_files.zip",
+        "size": "285 MB that upzips"
+      }
+    ]
+  },
+  {
+    "title": "SSA 2012 ANNUAL FOIA REPORT",
+    "description": "This file contains the Social Security Administrationu0027s 2012 Annual Freedom of Information Act (FOIA) Report that Congress requires.  The report provides detailed information regarding the number and type of FOIA cases we processed in FY 2012.  The report includes data regarding time and costs associated with processing these cases.",
+    "keyword": [
+      "FOIA",
+      "FREEDOM OF INFORMATION ACT",
+      "FREEDOM OF INFORMATION",
+      "ANNUAL",
+      "ANNUAL REPORT",
+      "FISCAL YEAR",
+      "FY",
+      "REPORT"
+    ],
+    "modified": "2012-12-05",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debbie Verzi",
+    "mbox": "debbie.verzi@ssa.gov",
+    "identifier": "US-GOV-SSA-337",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/foia/html/2012%20FOIA%20Report.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "WORLDWIDE",
+    "temporal": "2011-10-01/2012-09-30",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/foia/index.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/foia/html/2012%20FOIA%20Report.xml",
+        "size": "37KB"
+      }
+    ]
+  },
+  {
+    "title": "Baby Names from Social Security Card Applications-National Level Data",
+    "description": "The data (name, year of birth, sex and number) are from a 100 percent sample of Social Security card applications after 1879.",
+    "keyword": [
+      "Baby names",
+      "SSA",
+      "births",
+      "Social Security Cards"
+    ],
+    "modified": "2013-03-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-338",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/oact/babynames/names.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "1879/",
+    "dataDictionary": "http://www.ssa.gov/oact/babynames/names.zip",
+    "references": [
+      "http://www.ssa.gov/oact/babynames/background.html"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/oact/babynames/names.zip",
+        "size": "7 Mb"
+      }
+    ]
+  },
+  {
+    "title": "Baby Names from Social Security Card Applications-Data by State and District of Columbia.",
+    "description": "The data (name, year of birth, sex, state, and number) are from a 100 percent sample of Social Security card applications starting with 1910. National data is in another dataset.",
+    "keyword": [
+      "Baby names",
+      "SSA",
+      "births",
+      "Social Security Cards"
+    ],
+    "modified": "2013-03-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-339",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/oact/babynames/state/namesbystate.zip",
+    "webService": "",
+    "format": "application/zip",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "1910/",
+    "dataDictionary": "http://www.ssa.gov/oact/babynames/state/namesbystate.zip",
+    "references": [
+      "http://www.ssa.gov/oact/babynames/background.html"
+    ],
+    "formatDisplay": "ZIP",
+    "distribution": [
+      {
+        "formatDisplay": "ZIP",
+        "format": "application/zip",
+        "accessURL": "http://www.ssa.gov/oact/babynames/state/namesbystate.zip",
+        "size": "22 Mb"
+      }
+    ]
+  },
+  {
+    "title": "Supplemental Security Income (SSI) Recipients in each State by age, December 2010",
+    "description": "A data set providing SSI recipient counts by age and gender within each State for the month December 2010",
+    "keyword": [
+      "Social Security Administration",
+      "SSI",
+      "State",
+      "Sex",
+      "Age",
+      "Eligiblity",
+      "2010 data"
+    ],
+    "modified": "2013-04-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-340",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-State-Age-2010.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2010-12-01/2010-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-State-Age-2010.csv",
+        "size": "39 KB"
+      }
+    ]
+  },
+  {
+    "title": "Supplemental Security Income (SSI) recipients in each State, by eligibility category, December 2010",
+    "description": "A data set providing SSI recipient counts by eligibility reason (aged, blind/disabled) and gender within each State for the month December 2010",
+    "keyword": [
+      "Social Security Administration",
+      "SSI",
+      "State",
+      "Sex",
+      "Age",
+      "Eligiblity",
+      "2010 data"
+    ],
+    "modified": "2013-04-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "Clark.Pickett@ssa.gov",
+    "identifier": "US-GOV-SSA-341",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-State-Eligibility-2010.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2010-12-01/2010-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-State-Eligibility-2010.csv",
+        "size": "7 KB"
+      }
+    ]
+  },
+  {
+    "title": "Disability Diagnoses of Supplemental Security Income (SSI) Recipients by SSA Region, December 2010",
+    "description": "A data set providing SSI recipient counts by age, gender, and disability diagnosis with each SSA regional office for the month December 2010",
+    "keyword": [
+      "Social Security Administration",
+      "SSI",
+      "Diagnostic",
+      "State",
+      "Sex",
+      "Age",
+      "Eligiblity",
+      "2010 data",
+      "disability"
+    ],
+    "modified": "2013-04-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Angela Harper",
+    "mbox": "Angela.Y.Harper@ssa.gov",
+    "identifier": "US-GOV-SSA-342",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-Under65-Diag-1-2010.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2010-12-01/2010-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-Under65-Diag-1-2010.csv",
+        "size": "65 KB"
+      }
+    ]
+  },
+  {
+    "title": "Disability Diagnoses of Supplemental Security Income (SSI) Recipients, December 2010, by Census Area",
+    "description": "A data set providing SSI recipient counts by age, gender, and disability diagnosis within each Census area for the month December 2010",
+    "keyword": [
+      "Social Security Administration",
+      "SSI",
+      "Diagnostic",
+      "State",
+      "Sex",
+      "Age",
+      "Eligiblity",
+      "2010 data",
+      "disability"
+    ],
+    "modified": "2013-04-01",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Angela Harper",
+    "mbox": "Angela.Y.Harper@ssa.gov",
+    "identifier": "US-GOV-SSA-343",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-Under65-Diag-2-2010.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "United States",
+    "temporal": "2010-12-01/2010-12-31",
+    "dataDictionary": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
+    "references": [
+      "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/policy/docs/data/ssi-2010/SSI-Under65-Diag-2-2010.csv",
+        "size": "78 KB"
+      }
+    ]
+  },
+  {
+    "title": "Disability Determination Services (DDS) Accuracy",
+    "description": "This dataset provides accuracy rate figures for SSA disability medical determinations made by the state DDSs.",
+    "keyword": [
+      "Disability Determination Services (DDS) Accuracy",
+      "SSA",
+      "Social Security"
+    ],
+    "modified": "2013-08-14",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-344",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/DDS-Net-Accuracy.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "States and the District of Columbia",
+    "temporal": "2007/",
+    "dataDictionary": "http://www.ssa.gov/open/data/disability-determination-services-accuracy-2007-onward.html",
+    "references": [
+      "http://www.ssa.gov/open/data/disability-determination-services-accuracy-2007-onward.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/DDS-Net-Accuracy.csv",
+        "size": "8.0"
+      }
+    ]
+  },
+  {
+    "title": "National Pending of Social Security Hearing Requests by Format",
+    "description": "Report refers to the National total of  cases pending at the hearing level and the number and percentages of those cases that were in either electronic format (EF) or paper format.   The numbers shown reflect data for the end of each fiscal year (FY) from FY 2006 through FY 2012 and so enable the user to view trends in pending by format.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security benefits",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "requests for hearings",
+      "requests for hearings pending",
+      "pending",
+      "pending by format",
+      "electronic folder",
+      "EF",
+      "paper folder",
+      "paper format"
+    ],
+    "modified": "2013-07-17",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-345",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/Pending_National_Hearing_Requests_By_ElectronicFormat-Paper.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "All hearing offices in the nation",
+    "temporal": "2005-10/2012-09",
+    "dataDictionary": "http://www.ssa.gov/appeals/DataSets/Pending_Hearing_Requests_By_ElectronicFormat_Paper.html",
+    "references": [
+      "http://www.ssa.gov/appeals/DataSets/Pending_Hearing_Requests_By_ElectronicFormat_Paper.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/Pending_National_Hearing_Requests_By_ElectronicFormat-Paper.xml",
+        "size": "4886 Bytes"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration Appeals Council Requests for Review",
+    "description": "Report refers to the National total of  request for review (RR) case receipts, dispositions and pending at the Appeals Council level.   The numbers shown reflect data for the end of each month of the fiscal year (FY) beginning with FY 2012 with quarterly and FY summaries through the most recently completed quarter.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review (ODAR)",
+      "Social Security benefits",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "requests for hearings",
+      "requests for hearings pending",
+      "pending",
+      "pending by format",
+      "electronic folder",
+      "EF",
+      "paper folder",
+      "paper format"
+    ],
+    "modified": "2013-07-18",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-346",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/07_AC_Requests_For_Review.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "National",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/DataSets/07_AC_Requests_For_Review.html",
+    "references": [
+      "http://www.ssa.gov/appeals/DataSets/07_AC_Requests_For_Review.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/07_AC_Requests_For_Review.xml",
+        "size": "32.0"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration (SSA) New Court Cases",
+    "description": "This dataset refers to the National total of new court case (NCC) receipts, dispositions and pending at the Appeals Council level in the Office of Disability Adjudication and Review (ODAR) of SSA.   The numbers shown reflect data for the end of each month of the fiscal year (FY) beginning with FY 2013 with quarterly and FY summaries through the most recently completed quarter.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security benefits",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "requests for hearings",
+      "requests for hearings pending",
+      "pending",
+      "court",
+      "SSA",
+      "ODAR"
+    ],
+    "modified": "2013-07-11",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-347",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "National",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases_and_Remands.html",
+    "references": [
+      "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases_and_Remands.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases.xml",
+        "size": "32.0"
+      }
+    ]
+  },
+  {
+    "title": "Social Security Administration (SSA) Court Remand Activity",
+    "description": "This dataset refers to the National total of court remand receipts, dispositions and pending at the  Office of Disability Adjudication and Review (ODAR) of SSA.   The numbers shown reflect data for the end of each month of the fiscal year (FY) beginning with FY 2013 with quarterly and FY summaries through the most recently completed quarter.",
+    "keyword": [
+      "Social Security Administration",
+      "Office of Disability Adjudication and Review",
+      "Social Security benefits",
+      "Social Security disability benefits",
+      "hearings",
+      "hearings and appeals",
+      "requests for hearings",
+      "remands",
+      "court",
+      "SSA",
+      "ODAR"
+    ],
+    "modified": "2013-07-11",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Debra Castel",
+    "mbox": "debra.castel@ssa.gov",
+    "identifier": "US-GOV-SSA-348",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/appeals/DataSets/08_Court_Remands.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "",
+    "spatial": "National",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases_and_Remands.html",
+    "references": [
+      "http://www.ssa.gov/appeals/DataSets/08_National_New_Court_Cases_and_Remands.html"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/appeals/DataSets/08_Court_Remands.xml",
+        "size": "32.0"
+      }
+    ]
+  },
+  {
+    "title": "Data on Combined Title II Disability and Title XVI Blind/Disabled Average Processing Time (In Days)",
+    "description": "The data contained in this dataset shows the overall cumulative number of elapsed days (including processing time for transit, technical determinations, medical determinations, and quality review) from the date of filing through the date payment is made or the denial notice is issued for all initial claims that require a medical determination.",
+    "keyword": [
+      "SSA",
+      "disability",
+      "disabled",
+      "blind",
+      "processing time",
+      "Title II and Title XVI"
+    ],
+    "modified": "2013-09-26",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-349",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/Combined-Disability-Processing-Time.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "world",
+    "temporal": "2007-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/Combined-Disability-Processing-Time.html",
+    "references": [
+      "http://www.ssa.gov/open/data/Combined-Disability-Processing-Time.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/Combined-Disability-Processing-Time.csv",
+        "size": "1579 bytes"
+      }
+    ]
+  },
+  {
+    "title": "Yearly data for Asian and Pacific Islander Languages among initial claims Social Security retirement and Survivor",
+    "description": "This dataset provides annual volumes of the Social Security Retirement & Survivors initial claims at the national level from federal fiscal year 2010 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "retirement claims",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-350",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Yrly.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2009-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSRS.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSRS.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Yrly.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Yrly.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Quarterly data for Asian and Pacific Islander Languages among initial claims Social Security retirement and Survivor",
+    "description": "This dataset provides quarterly volumes of the Social Security Retirement & Survivors initial claims at the national level from federal fiscal year 2013 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific Islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "retirement claims",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-351",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Q.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSRS.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSRS.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Q.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Rib_Q.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Yearly data for Asian and Pacific Islander Languages among initial claims Social Security disability",
+    "description": "This dataset provides annual volumes of the Social Security Disability initial claims at the national level from federal fiscal year 2010 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "disability claims",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-352",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Yrly.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2009-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSDI.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSDI.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Yrly.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Yrly.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Quarterly data for Asian and Pacific Islander Languages among initial claims Social Security disability",
+    "description": "This dataset provides quarterly volumes of the Social Security Disability initial claims at the national level from federal fiscal year 2013 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "disability claims",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-353",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Q.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSDI.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSDI.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Q.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Q.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Yearly data for Asian and Pacific Islander Languages among initial claims Supplemental Security Income (aged)",
+    "description": "This dataset provides annual volumes of SSI Aged initial claims at the national level from federal fiscal year 2010 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "Supplemental Security Income",
+      "SS",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-354",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Yrly.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2009-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSI-aged.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSI-aged.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Yrly.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Q.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Quarterly data for Asian and Pacific Islander Languages among initial claims Supplemental Security Income (aged)",
+    "description": "This dataset provides quarterly volumes of the Social Security Disability initial claims at the national level from federal fiscal year 2013 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "Supplemental Security Income",
+      "SSI aged",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-355",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Q.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSI-aged.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSI-aged.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Q.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIAged_Q.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Yearly data for Asian and Pacific Islander Languages among initial claims Supplemental Security Income (Blind and Disabled)",
+    "description": "This dataset provides annual volumes of SSI Blind & Disabled initial claims at the national level from federal fiscal year 2010 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "Supplemental Security Income",
+      "SSI blind and disabled",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-356",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Yrly.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2009-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSI-blind+disabled.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-yearly-SSI-blind+disabled.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Yrly.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Yrly.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Quarterly data for Asian and Pacific Islander Languages among initial claims Supplemental Security Income (Blind and Disabled)",
+    "description": "This dataset provides quarterly volumes of SSI Blind & Disabled initial claims at the national level from federal fiscal year 2013 and onwards for Asian & Pacific Islander language preferences.",
+    "keyword": [
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "Supplemental Security Income",
+      "SSI blind and disabled",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-357",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Q.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSI-blind+disabled.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI-Language-Preferences-quarterly-SSI-blind+disabled.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Q.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/API_Spklang_IC_T16_SSIBlDib_Q.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Telephone Interpreter Services (TIS)-Asian and Pacific Islander (API) Language Yearly Dataset",
+    "description": "This dataset displays our national TIS call volume for over 45 API languages for the last three fiscal years.  A fiscal year runs from October through September.  We will continue to add a new column to this report at the end of each fiscal year.",
+    "keyword": [
+      "Telephone interpreter services",
+      "TIS",
+      "language interpreter services",
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-358",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-TIS-DATA.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2010-09/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI--yearly-TIS.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI--yearly-TIS.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-TIS-DATA.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-TIS-DATA.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Telephone Interpreter Services (TIS)-Asian and Pacific Islander (API) Language Fiscal Year Quarterly Dataset",
+    "description": "This dataset displays our quarterly national TIS call volume for over 45 API languages for the current fiscal year.  A fiscal year runs from October through September and a quarter is broken into a three-month timeframe within a fiscal year.  We will continue to add a new column to this report at the end of every fiscal year quarter.",
+    "keyword": [
+      "Telephone interpreter services",
+      "TIS",
+      "language interpreter services",
+      "Asians",
+      "Asian languages",
+      "Pacific islanders",
+      "Pacific Island languages",
+      "Chinese",
+      "Vietnamese",
+      "API"
+    ],
+    "modified": "2013-10-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-359",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/QUARTERLY-API-TIS-DATA.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2012-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI--quarterly-TIS.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI--quarterly-TIS.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/QUARTERLY-API-TIS-DATA.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/QUARTERLY-API-TIS-DATA.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Bilingual Employee-Asian and Pacific Islander (API) Language Yearly Dataset",
+    "description": "This dataset displays our yearly national number of bi- or multilingual employees who volunteer their services as an interpreter and/or translator in their identified Asian and Pacific Islander (API) language.  The report shows that we have over 1,700 self-identified employees who are bi- or multilingual in over 50 AAPI languages and dialects.",
+    "keyword": [
+      "Asian employees",
+      "Pacific Islander employees",
+      "bilingual employees",
+      "Asian languages",
+      "Pacific Islander languages",
+      "API"
+    ],
+    "modified": "2013-12-16",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-360",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-BILINGUAL-EMPLOYEE-DATA.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2009-10/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI--yearly-BE.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI--yearly-BE.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-BILINGUAL-EMPLOYEE-DATA.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/YEARLY-API-BILINGUAL-EMPLOYEE-DATA.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Bilingual Employee-Asian and Pacific Islander (API) Language Semi-Annual Dataset",
+    "description": "This dataset displays our semi-annual national number of bi- or multilingual employees who volunteer their services as an interpreter and/or translator in their identified Asian and Pacific Islander (API) language.  The report shows that we have over 1,700 self-identified employees who are bi- or multilingual in over 50 AAPI languages and dialects.",
+    "keyword": [
+      "Asian employees",
+      "Pacific Islander employees",
+      "bilingual employees",
+      "Asian languages",
+      "Pacific Islander languages",
+      "API"
+    ],
+    "modified": "2013-09-05",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Linda McCaw",
+    "mbox": "Linda.McCaw@ssa.gov",
+    "identifier": "US-GOV-SSA-361",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/open/data/SEMIANNUAL-BILINGUAL-EMPLOYEE-API-DATA.csv",
+    "webService": "",
+    "format": "text/csv",
+    "license": "",
+    "spatial": "",
+    "temporal": "2013-01/",
+    "dataDictionary": "http://www.ssa.gov/open/data/AAPI--semi-annual-BE.html#dataDictionary",
+    "references": [
+      "http://www.ssa.gov/open/data/AAPI--semi-annual-BE.html"
+    ],
+    "formatDisplay": "CSV",
+    "distribution": [
+      {
+        "formatDisplay": "CSV",
+        "format": "text/csv",
+        "accessURL": "http://www.ssa.gov/open/data/SEMIANNUAL-BILINGUAL-EMPLOYEE-API-DATA.csv",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLS",
+        "format": "application/vnd.ms-excel",
+        "accessURL": "http://www.ssa.gov/open/data/SEMIANNUAL-BILINGUAL-EMPLOYEE-API-DATA.xls",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Ticket to Work Monthly Report",
+    "description": "A monthly summary of activity for the Ticket to Work and Vocational Rehabilitation programs",
+    "keyword": [
+      "Social Security Adminsitration",
+      "Office of Returement and Disability Policy",
+      "Ticket to Work Program",
+      "Vocational Rehabilitation Program",
+      "social security disability benefits",
+      "return to work"
+    ],
+    "modified": "2013-11-14",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Kelly Jaksic",
+    "mbox": "Kelly.Jaksic @ssa.gov",
+    "identifier": "US-GOV-SSA-362",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/work/documents/NEWTTWP%20Ticket%20Summary%20and%20Assignment%20%20Report%20June%20FY13-11.pdf",
+    "webService": "",
+    "format": "application/pdf",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://ssa.gov/work/home.html"
+    ],
+    "formatDisplay": "PDF",
+    "distribution": [
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://ssa.gov/work/documents/NEWTTWP%20Ticket%20Summary%20and%20Assignment%20%20Report%20June%20FY13-11.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Monthly Impact of Ticket to Work Program",
+    "description": "Payment and work activity data related to Ticket to Work Program ",
+    "keyword": [
+      "Social Security Adminsitration",
+      "Office of Returement and Disability Policy",
+      "Ticket to Work Program",
+      "Vocational Rehabilitation Program",
+      "social security disability benefits",
+      "return to work"
+    ],
+    "modified": "2013-11-14",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Kelly Jaksic",
+    "mbox": "Kelly.Jaksic @ssa.gov",
+    "identifier": "US-GOV-SSA-363",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://ssa.gov/work/documents/Monthly_Status_Report_9-20.pdf ",
+    "webService": "",
+    "format": "application/pdf",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://ssa.gov/work/home.html"
+    ],
+    "formatDisplay": "PDF",
+    "distribution": [
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://ssa.gov/work/documents/Monthly_Status_Report_9-20.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Annual Statistical Report on the Social Security Disability Insurance Program",
+    "description": "Annual report providing program and demographic information about the people receiving disability insurance benefits under the OASDI program.",
+    "keyword": [
+      "Social Security",
+      "DI",
+      "Disability Insurance"
+    ],
+    "modified": "2012-07-10",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Angela Harper",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-364",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2012/di_asr12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/di_asr/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2012/di_asr12.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/di_asr/2012/di_asr12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Annual Statistical Supplement to the Social Security Bulletin",
+    "description": "Annual report with more than 240 statistical tables on the Social Security and Supplemental Security Income programs. ",
+    "keyword": [
+      "Social Security",
+      "OASDI",
+      "SSI"
+    ],
+    "modified": "2013-02-06",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Angela Harper",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-365",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/supplement/2012/supplement12.pdf",
+    "webService": "",
+    "format": "application/pdf",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/supplement/index.html"
+    ],
+    "formatDisplay": "PDF",
+    "distribution": [
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/supplement/2012/supplement12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Congressional Statistics",
+    "description": "Annual OASDI and SSI fact sheets for each state and Congressional district.",
+    "keyword": [
+      "Social Security",
+      "OASDI",
+      "SSI"
+    ],
+    "modified": "2013-05-29",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Diane Wallace",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-366",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/factsheets/cong_stats/2012/cong_stats12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/factsheets/cong_stats/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/factsheets/cong_stats/2012/cong_stats12.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/factsheets/cong_stats/2012/cong_stats12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Public Data Listing",
+    "description": "Provides a list of all public data assets made available by the Social Security Administration.",
+    "keyword": [
+      "public",
+      "data asset",
+      "data"
+    ],
+    "modified": "2013-12-23",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Data Administrator",
+    "mbox": "da.mailbox@ssa.gov",
+    "identifier": "US-GOV-SSA-368",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/data.json",
+    "webService": "",
+    "format": "application/json",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/data"
+    ],
+    "formatDisplay": "JSON",
+    "distribution": [
+      {
+        "formatDisplay": "JSON",
+        "format": "application/json",
+        "accessURL": "http://www.ssa.gov/data.json",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Earnings and Employment Data for Workers Covered Under Social Security and Medicare, by State and County",
+    "description": "Annual report providing earnings and employment data by state and county for persons covered under the Social Security and Medicare programs.",
+    "keyword": [
+      "Social Security",
+      "Medicare",
+      "Earnings"
+    ],
+    "modified": "2013-05-30",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Greg Diez",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-369",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/eedata_sc/2010/eedata_sc10.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/eedata_sc/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/eedata_sc/2010/eedata_sc10.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/eedata_sc/2010/eedata_sc10.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "OASDI Beneficiaries by State and County",
+    "description": "Annual report providing Social Security beneficiary population data by state and county.",
+    "keyword": [
+      "OASDI",
+      "Social Security"
+    ],
+    "modified": "2013-06-27",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Diane Wallace",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-370",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_sc/2012/oasdi_sc12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/oasdi_sc/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_sc/2012/oasdi_sc12.pdf",
+        "size": ""
+      },
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_sc/2012/oasdi_sc12.xlsx",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "OASDI Beneficiaries by State and ZIP Code",
+    "description": "Annual report providing Social Security beneficiary population data by state and ZIP code.",
+    "keyword": [
+      "OASDI",
+      "Social Security"
+    ],
+    "modified": "2013-09-12",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Diane Wallace",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-371",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2012/oasdi_zip12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/oasdi_zip/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2012/oasdi_zip12.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2012/oasdi_zip12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "SSI Annual Statistical Report",
+    "description": "Annual report providing program and demographic information about the people receiving Supplemental Security Income benefits.",
+    "keyword": [
+      "SSI",
+      "Supplemental Security Income"
+    ],
+    "modified": "2013-07-08",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Clark Pickett",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-372",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2012/ssi_asr12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2012/ssi_asr12.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_asr/2012/ssi_asr12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "SSI Recipients by State and County",
+    "description": "Annual report providing county level data on recipients of Supplemental Security Income benefits.",
+    "keyword": [
+      "SSI",
+      "Supplemental Security Income"
+    ],
+    "modified": "2013-06-17",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Diane Wallace",
+    "mbox": "statistics@ssa.gov",
+    "identifier": "US-GOV-SSA-374",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_sc/2012/ssi_sc12.xlsx",
+    "webService": "",
+    "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/policy/docs/statcomps/ssi_sc/index.html"
+    ],
+    "formatDisplay": "XLSX",
+    "distribution": [
+      {
+        "formatDisplay": "XLSX",
+        "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_sc/2012/ssi_sc12.xlsx",
+        "size": ""
+      },
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.ssa.gov/policy/docs/statcomps/ssi_sc/2012/ssi_sc12.pdf",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "Recent SSA Headquarters Contracting History",
+    "description": "This is a list of awards made by the Office of Acquisition and Grants, the contracting office for the Social Security Administration. Modifications to awards and call orders against blanket purchase agreements are not shown.",
+    "keyword": [
+      "FOIA",
+      "CONTRACT",
+      "OAG"
+    ],
+    "modified": "2013-11-11",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Kathy Bish",
+    "mbox": "Kathy.Bish@ssa.gov",
+    "identifier": "US-GOV-SSA-376",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/oag/foia/contract/master.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "Public",
+    "spatial": "All Contracts - Nationwide",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/oag/foia/contract/htmactcv.htm"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/oag/foia/contract/master.xml",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "SSA Purchase Cardholder Roster - Active Purchase Card List by State",
+    "description": "This is a roster of active purchase cardholder  for the Social Security Administration.",
+    "keyword": [
+      "FOIA",
+      "IMPAC",
+      "OAG"
+    ],
+    "modified": "2013-11-12",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Kathy Bish",
+    "mbox": "Kathy.Bish@ssa.gov",
+    "identifier": "US-GOV-SSA-377",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.ssa.gov/oag/foia/impac/master.xml",
+    "webService": "",
+    "format": "text/xml",
+    "license": "Public",
+    "spatial": "All Purchase CardHolders Nationwide",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.ssa.gov/oag/foia/impac/oagfoia_pclstate.htm"
+    ],
+    "formatDisplay": "XML",
+    "distribution": [
+      {
+        "formatDisplay": "XML",
+        "format": "text/xml",
+        "accessURL": "http://www.ssa.gov/oag/foia/impac/master.xml",
+        "size": ""
+      }
+    ]
+  },
+  {
+    "title": "SSA FY 2012 Conference Information Report",
+    "description": "This report provides public information on SSAu0027s conference expenses for the year.",
+    "keyword": [
+      "Conference Information"
+    ],
+    "modified": "2012-11-15",
+    "publisher": "Social Security Administration",
+    "contactPoint": "Annette Dushel",
+    "mbox": "Annette.Dushel@ssa.gov",
+    "identifier": "US-GOV-SSA-378",
+    "accessLevel": "public",
+    "bureauCode": [
+      "016:00"
+    ],
+    "programCode": [
+      "016:000"
+    ],
+    "accessLevelComment": "",
+    "accessURL": "http://www.socialsecurity.gov/conference/2012/SSA_FY12_Conference_Table_Events_Over_100K.pdf",
+    "webService": "",
+    "format": "application/pdf",
+    "license": "",
+    "spatial": "",
+    "temporal": "",
+    "dataDictionary": "",
+    "references": [
+      "http://www.socialsecurity.gov/conference/"
+    ],
+    "formatDisplay": "PDF",
+    "distribution": [
+      {
+        "formatDisplay": "PDF",
+        "format": "application/pdf",
+        "accessURL": "http://www.socialsecurity.gov/conference/2012/SSA_FY12_Conference_Table_Events_Over_100K.pdf",
+        "size": ""
+      }
+    ]
+  }
+]

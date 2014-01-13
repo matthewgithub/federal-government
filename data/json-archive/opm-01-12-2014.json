@@ -1,0 +1,516 @@
+[
+    {
+        "title": "Presidential Management Fellows (PMF) Talent Acquisition System, PMF-TAS (PUBLIC FACING) - Finalist and Coordinator Data",
+        "description": "This site provides Current Finalist (with various sorting), Total Current PMF Appointments by Agency and List of Agency Coordinators",
+        "keyword": [
+            "PMF",
+            "Presidential Management Fellows"
+        ],
+        "modified": "2013-11-19",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Latonia Page",
+        "mbox": "latonia.page@opm.gov",
+        "identifier": "PMF-0001.2",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "accessURL": "https://apply.pmf.gov/pmf/pmfreports/sortByNameFinalists.hms?_ref=we92l3j3pt0&&filterIndex=1&tabIndex=0",
+        "format": "text/html",
+        "theme": [
+            "Current Finalist",
+            "Total Current PMF Appointments",
+            "List of Agency Coordinators"
+        ],
+        "distribution": [
+            {
+                "accessURL": "https://apply.pmf.gov/pmf/pmfreports/sortByNameFinalists.hms?_ref=we92l3j3pt0&&filterIndex=1&tabIndex=0?accessType=VIEW",
+                "format": "text/html"
+            }
+        ],
+        "accrualPeriodicity": "Annual",
+        "landingPage": "https://apply.pmf.gov/pmf",
+        "issued": "2012-11-01"
+    },
+    {
+        "title": "Presidential Management Fellows (PMF) Talent Acquisition System, PMF-TAS (PUBLIC FACING) - Rotational and Training Opportunities Data",
+        "description": "This site provides a list of current rotational and training opportunities available to PMF finalist",
+        "keyword": [
+            "PMF",
+            "Presidential Management Fellows"
+        ],
+        "modified": "2013-11-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Latonia Page",
+        "mbox": "Latonia.Page@om.gov",
+        "identifier": "PMF-0001.3",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "accessURL": "https://apply.pmf.gov/pmf/pmfsearch/searchVacanciesPmf!input.hms?_ref=we92l3j3pt0",
+        "format": "text/html",
+        "theme": "Opportunities",
+        "distribution": [
+            {
+                "accessURL": "https://apply.pmf.gov/pmf/pmfsearch/searchVacanciesPmf!input.hms?_ref=we92l3j3pt0?accessType=VIEW",
+                "format": "text/html"
+            }
+        ],
+        "accrualPeriodicity": "Completely irregular",
+        "landingPage": "https://apply.pmf.gov/pmf",
+        "issued": "2012-11-01"
+    },
+    {
+        "title": "PMF.gov",
+        "description": "Presidential Management Fellows (PMF) Program public website",
+        "keyword": [
+            "PMF",
+            "Presidential Management Fellows"
+        ],
+        "modified": "2013-11-20",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Latonia Page",
+        "mbox": "latonia.page@opm.gov",
+        "identifier": "PMF-0002",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "accrualPeriodicity": "Semiweekly",
+        "landingPage": "http://www.pmf.gov"
+    },
+    {
+        "title": "Pay and Leave General Schedule",
+        "description": "General Schedule (GS) and Locality Pay tables (current and past years)",
+        "keyword": [
+            "pay",
+            "leave",
+            "salary",
+            "wages"
+        ],
+        "modified": "2013-01-31",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Joe Ratcliffe",
+        "mbox": "joseph.ratcliffe@opm.gov",
+        "identifier": "PL-0001",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "format": "application/excel",
+        "theme": "Salaries and Wages",
+        "landingPage": "http://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/"
+    },
+    {
+        "title": "Pay and Leave Law Enforcement Officer",
+        "description": "Law Enforcement Officer (LEO) general Schedule Locality Pay tables (current and past years)",
+        "keyword": [
+            "pay",
+            "leave",
+            "salary",
+            "wages"
+        ],
+        "modified": "2013-04-05",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Joe Ratcliffe",
+        "mbox": "joseph.ratcliffe@opm.gov",
+        "identifier": "PL-0002",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "format": "application/excel",
+        "theme": "SalariesandWages",
+        "landingPage": "http: //www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/"
+    },
+    {
+        "title": "Pay and Leave Executive and Senior Level",
+        "description": "Executive and senior Level Employee Pay tables (current and past years)",
+        "keyword": [
+            "pay",
+            "leave",
+            "salary",
+            "wages"
+        ],
+        "modified": "2013-04-05",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Joe Ratcliffe",
+        "mbox": "joseph.ratcliffe@opm.gov",
+        "identifier": "PL-0003",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "format": "application/excel",
+        "theme": "Salaries and Wages"
+    },
+    {
+        "title": "Pay and Leave Special Rates",
+        "description": "Special Rate tables (current and past years)",
+        "keyword": [
+            "pay",
+            "leave",
+            "salary,wages"
+        ],
+        "modified": "2013-04-05",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Joe Ratcliffe",
+        "mbox": "joseph.ratcliffe@opm.gov",
+        "identifier": "PL-0004",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "format": "application/excel",
+        "theme": "Salaries and Wages",
+        "landingPage": "http://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/"
+    },
+    {
+        "title": "FedScope Employment Cubes",
+        "description": "This raw data set provides Federal civilian employee population data.  The scope of this raw data set includes all data elements used in the creation of the FedScope Employment Cube (http://www.fedscope.opm.gov/). The following workforce characteristics are available for analysis: Agency, State/Country, Occupation, Occupation Category, Pay Plan & Grade, GS & Equivalent Grade, Salary Level ($10,000 interval), Work Schedule, Type of Appointment, Gender, Age (5 year interval), Length of Service (5 year interval), Employment, Average Salary, and Average Length of Service.  Starting in FY 2010, the OPM Enterprise Human Resources Integration-Statistical Data Mart (EHRI-SDM) is the source for all FedScope data.  Data is processed on a quarterly basis (i.e. March, June, September and December).",
+        "keyword": [
+            "Federal employment data",
+            "Executive Branch employment data",
+            "statistical data",
+            "Human Resources Data",
+            "Federal workforce data",
+            "FedScope",
+            "Statistical Data Mart",
+            "SDM",
+            "CPDF",
+            "EHRI",
+            "Central Personnel Data File",
+            "Enterprise Human Resources Integration"
+        ],
+        "modified": "2013-06-30",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Michael P. Ambrose",
+        "mbox": "mike.ambrose@opm.gov",
+        "identifier": "FEDSCOPE-0001",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "accessURL": "http://www.opm.gov/data/Files/324/4e2d94f0-199b-4fa8-854d-4b0c7e8d14df.zip",
+        "format": [
+            "application/zip",
+            "text/csv"
+        ],
+        "temporal": "2004-09/2013-06",
+        "theme": "Employment",
+        "dataDictionary": "http://www.opm.gov/Data/Files/324/f14765be-1fa8-4845-9d3b-d912558dfc74.pdf",
+        "dataQuality": "TRUE",
+        "distribution": [
+            {
+                "accessURL": "http://www.opm.gov/data/Files/324/4e2d94f0-199b-4fa8-854d-4b0c7e8d14df.zip?accessType=DOWNLOAD",
+                "format": "application/zip"
+            }
+        ],
+        "accrualPeriodicity": "Quarterly",
+        "landingPage": "http://www.opm.gov/data/",
+        "language": "en-us",
+        "references": "http://www.opm.gov/Data/Files/324/f14765be-1fa8-4845-9d3b-d912558dfc74.pdf"
+    },
+    {
+        "title": "FedScope Accessions Cubes",
+        "description": "This raw data set provides the actual number of personnel actions (\"Transfer-Ins\" and \"New Hires\") that have taken place within a Fiscal Year.  The scope of this raw data set includes all data elements used in the creation of the FedScope Accessions Cube (http://www.fedscope.opm.gov/). The following workforce characteristics are available for analysis: Agency, Accession, Date, State/Country, Occupation, Occupation Category, Pay Plan & Grade, GS & Equivalent Grade, Salary Level ($10,000 interval), Work Schedule, Type of Appointment, Gender, Age (5 year interval), Length of Service (5 year interval), Count, Average Salary, and Average Length of Service.  Starting in FY 2010, the OPM Enterprise Human Resources Integration-Statistical Data Mart (EHRI-SDM) is the source for all FedScope data.. Data is processed on a quarterly basis (i.e. March, June, September and December).",
+        "keyword": [
+            "Federal accessions data",
+            "Transfer-Ins",
+            "New Hires",
+            "Personnel Actions",
+            "Executive Branch accessions data",
+            "statistical data",
+            "HumanResourcesData",
+            "Federalworkforcedata",
+            "FedScope",
+            "StatisticalDataMart",
+            "SDM",
+            "CPDF",
+            "EHRI",
+            "CentralPersonnelDataFile",
+            "EnterpriseHumanResourcesIntegration"
+        ],
+        "modified": "2012",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Michael P. Ambrose",
+        "mbox": "mike.ambrose@opm.gov",
+        "identifier": "FEDSCOPE-0002",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027: 000",
+        "accessURL": "http: //www.opm.gov/data/Files/314/cce8064a-23b7-4dea-a196-f9a546dc781c.zip",
+        "format": [
+            "application/zip",
+            "text/csv"
+        ],
+        "temporal": "2005-10-01/2012-09-30",
+        "theme": "Accessions",
+        "dataDictionary": "http: //www.opm.gov/Data/Files/314/71143ed4-dc52-4a00-84b8-3a7510b2cf68.pdf",
+        "dataQuality": "TRUE",
+        "distribution": [
+            {
+                "accessURL": "http://www.opm.gov/data/Files/314/cce8064a-23b7-4dea-a196-f9a546dc781c.zip?accessType=DOWNLOAD",
+                "format": "application/zip"
+            }
+        ],
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http: //www.opm.gov/data/",
+        "language": "en-us",
+        "references": "http: //www.opm.gov/Data/Files/314/71143ed4-dc52-4a00-84b8-3a7510b2cf68.pdf"
+    },
+    {
+        "title": "FedScope Separations Cubes",
+        "description": "This raw data set provides the actual number of personnel actions (\"Transfer-Outs\" and \"Separations from the Federal Service\") that have taken place within a Fiscal Year.  The scope of this raw data set includes all data elements used in the creation of the FedScope Separations Cube (http://www.fedscope.opm.gov/). The following workforce characteristics are available for analysis: Agency, Separation, Date, State/Country, Occupation, Occupation Category, Pay Plan & Grade, GS & Equivalent Grade, Salary Level ($10,000 interval), Work Schedule, Type of Appointment, Gender, Age (5 year interval), Length of Service (5 year interval), Count, Average Salary, and Average Length of Service.  Starting in FY 2010, the OPM Enterprise Human Resources Integration-Statistical Data Mart (EHRI-SDM) is the source for all FedScope data.  Data is processed on a quarterly basis (i.e. March, June, September and December).",
+        "keyword": [
+            "Federal separations data",
+            "Transfer-Outs",
+            "Separations from the Federal Service",
+            "Personnel Actions",
+            "Executive Branch separations data",
+            "statistical data",
+            "Human Resources Data",
+            "Federal workforce data",
+            "FedScope",
+            "Statistical Data Mart",
+            "SDM",
+            "CPDF",
+            "EHRI",
+            "Central Personnel Data File",
+            "Enterprise Human Resources Integration"
+        ],
+        "modified": "2012",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Michael P. Ambrose",
+        "mbox": "mike.ambrose@opm.gov",
+        "identifier": "FEDSCOPE-0003",
+        "accessLevel": "public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "accessURL": "http://www.opm.gov/data/Files/315/f1eab291-39bd-48ee-ba6b-f3019bd18af1.zip",
+        "format": [
+            "application/zip",
+            "text/csv"
+        ],
+        "temporal": "2005-10-01/2012-09-30",
+        "theme": "Separations",
+        "dataDictionary": "http://www.opm.gov/Data/Files/315/af896395-6657-4f72-8923-47f0fcca42d0.pdf",
+        "dataQuality": "TRUE",
+        "distribution": [
+            {
+                "accessURL": "http://www.opm.gov/data/Files/315/f1eab291-39bd-48ee-ba6b-f3019bd18af1.zip?accessType=DOWNLOAD",
+                "format": "application/zip"
+            }
+        ],
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/",
+        "language": "en-us",
+        "references": "http://www.opm.gov/Data/Files/315/af896395-6657-4f72-8923-47f0fcca42d0.pdf"
+    },
+    {
+        "title": "Combined Federal Campaign Detail Results By Local Campaign ",
+        "description": "Information on donor contributions through the 2012 Combined Federal Campaign by local campaign. Data includes information on the number of donors, campaign costs, payroll deduction contributions, and recipient organizations.",
+        "keyword": [
+            "Combined Federal Campaign",
+            "CFC"
+        ],
+        "modified": "2013-05-30T21:30:00.0",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Curtis Rumbaugh",
+        "mbox": "Curtis.Rumbaugh@opm.gov",
+        "identifier": "CFC-0001",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:000",
+        "format": "text/csv",
+        "temporal": "2008-09-01/2012-12-31",
+        "dataDictionary": "http://www.opm.gov/Data/Files/328/77cc81b2-fc9d-4611-8e83-cd6d51da5ad1.pdf"
+    },
+    {
+        "title": "Fiscal Year Annuitants on the Retirement Roll",
+        "description": "Civil Service Retirement Fund/Federal Employees Retirement System (CSRS/FERS) Number of Employee Annuitants on the Retirement Roll Distribution by Type of Retirement Plan",
+        "keyword": [
+            "Retirement Type",
+            "Employee Annuitants on the Roll Number",
+            "Employee Annuitants on the Roll Percent",
+            "Employee Annuitants on the Roll Monthly Annuity Mean",
+            "Employee Annuitants on the Roll Monthly Annuity Median",
+            "Employee Annuitants on the Roll Contributions Mean",
+            "Employee Annuitants on the Roll Contributions Median",
+            "Employee Annuitants on the Roll  Mean Years of Service Military",
+            "Employee Annuitants on the Roll Mean Years of Service Civilian",
+            "Employee Annuitants on the Roll Mean Years of Service Total",
+            "Employee Annuitants on the Roll Age at End of Fiscal Year Mean",
+            "Employee Annuitants on the Roll Age at End of Fiscal Year Median",
+            "Employee Annuitants on the Roll Years on Roll mean",
+            "Employee Annuitants on the Roll Years of Roll Median",
+            "Employee Annuitants on the Roll Percent with: Federal Employees Group Life Insurance",
+            "Employee Annuitants on the Roll Percent with: Health Benefits",
+            "Employee Annuitants on the Roll Percent with: Survivor Election"
+        ],
+        "modified": "2011-07-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R1.1",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Fiscal Year Annuitants Added to the Retirement Roll",
+        "description": "Civil Service Retirement Fund/Federal Employees Retirement System (CSRS/FERS) Number of Employee Annuitants on the Retirement Roll Distribution by Type of Retirement Plan",
+        "keyword": [
+            "Retirement Type",
+            "Employee Annuitants Added to the Roll Number",
+            "Employee Annuitants Added to the Roll Percent",
+            "Employee Annuitants Monthly Annuity Mean",
+            "Employee Annuitants Added to the Roll Monthly Annuity Median",
+            "Employee Annuitants Added to the Roll Contributions Mean",
+            "Employee Annuitants Added to the Roll Contributions Median",
+            "Employee Annuitants Added to the Roll Mean Years of Service Military",
+            "Employee Annuitants Added to the Roll Mean Years of Service Civilian",
+            "Employee Annuitants Added to the Roll Mean Years of Service Total",
+            "Employee Annuitants Added to the Roll Age at End of Fiscal Year Mean",
+            "Employee Annuitants Added to the Roll Age at End of Fiscal Year Median",
+            "Employee Annuitants Added to the Roll Years on Roll mean",
+            "Employee Annuitants Added to the Roll Years of Roll Median",
+            "Employee Annuitants Added to the Roll Percent with: Federal Employees Group Life Insurance",
+            "Employee Annuitants Added to the Roll Percent with: Health Benefits",
+            "Employee Annuitants Added to the Roll Percent with: Survivor Election"
+        ],
+        "modified": "2011-07-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R1",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Fiscal Year Survivor Annuitants on the Retirement Roll",
+        "description": "Civil Service Retirement Fund/Federal Employees Retirement System (CSRS/FERS) Number of Survivor Annuitants on the Retirement Roll Distribution by Type of Retirement Plan",
+        "keyword": [
+            "Retirement Type",
+            "Survivor Annuitants on the Roll Number",
+            "Survivor Annuitants on the Roll Monthly Annuity Mean",
+            "Survivor Annuitants on the Roll Monthly Annuity Median",
+            "Survivor Annuitants Years on the Roll  Mean",
+            "Survivor Annuitants Years on the Roll Median"
+        ],
+        "modified": "2011-07-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R1.3",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Fiscal Year Survivor Annuitants Added to the Retirement Roll",
+        "description": "Civil Service Retirement Fund/Federal Employees Retirement System (CSRS/FERS) Number of Survivor Annuitants on the Retirement Roll Distribution by Type of Retirement Plan",
+        "keyword": [
+            "Retirement Type",
+            "Survivor Annuitants Added to the Roll Number",
+            "Survivor Annuitants Added to the Roll Percent",
+            "Survivor Annuitants Added to the Roll Monthly Annuity Mean",
+            "Survivor Annuitants Added to the Roll Monthly Annuity Median"
+        ],
+        "modified": "2011-07-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R1.4",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Type of Retirement Distribution by Number Added to the Retirement Roll",
+        "description": "Type of Retirement Distribution by Number Added to the Retirement Roll for Ten Consecutive Fiscal Years",
+        "keyword": [
+            "Fiscal Year",
+            "Normal/Immediate Employee Annuitants Added to the Roll Number",
+            "Disability Employee Annuitants Added to the Roll Number",
+            "Deferred/Postponed Employee Annuitants Added to the Roll Number",
+            "Involuntary Employee Annuitants Added to the Roll Number",
+            "Voluntary Early/Early Optional Employee Annuitants Added to the Roll Number",
+            "Law Enforcement/Firefighters Employee Annuitants Added to the Roll Number",
+            "Air Traffic Controllers Employee Annuitants Added to the Roll Number",
+            "Member of Congress Annuitants Added to the Roll Number",
+            "Other Employee Annuitants Added to the Roll Number"
+        ],
+        "modified": "2011-03-21",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R2",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "accrualPeriodicity": "Annual",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Type of Retirement Distribution by Number on the Retirement Roll",
+        "description": "Type of Retirement Distribution by Number on the Retirement Roll for Ten Consecutive Fiscal Years",
+        "keyword": [
+            "Fiscal Year",
+            "Normal/Immediate Employee Annuitants on the Roll Number",
+            "Disability Employee Annuitants on the Roll Number",
+            "Deferred/Postponed Employee Annuitants on the Roll Number",
+            "Involuntary Employee Annuitants on the Roll Number",
+            "Voluntary Early/Early Optional Employee Annuitants on the Roll Number",
+            "Law Enforcement/Firefighters Employee Annuitants on the Roll Number",
+            "Air Traffic Controllers Employee Annuitants on the Roll Number",
+            "Member of Congress Annuitants on the Roll Number",
+            "Other Employee Annuitants on the Roll Number"
+        ],
+        "modified": "2011-03-04",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R7",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    },
+    {
+        "title": "Fiscal Year Employeed and Survivor Annuitants by Geographic Distribution",
+        "description": "Civil Service Retirement Fund/Federal Employees Retirement System (CSRS/FERS) Employee and Survivor Annuitants Geographic Distribution by Number of Roll and Monthly Annuities",
+        "keyword": [
+            "Residence",
+            "Employee Annuitants on the Roll Number",
+            "Employee Annuitants on the Roll Aggregate Monthly Annuities",
+            "Survivor Annuitants on the Roll Number",
+            "Survivor Annuitants on the Roll Aggregate Monthly Annuities"
+        ],
+        "modified": "2011-07-01",
+        "publisher": "U.S. Office of Personnel Management",
+        "contactPoint": "Teresa C. Huang",
+        "mbox": "Teresa.Huang@opm.gov",
+        "identifier": "Statistical Abstracts Exhibit R14",
+        "accessLevel": "Public",
+        "bureauCode": "027:000",
+        "programCode": "027:008",
+        "format": "text/csv",
+        "dataDictionary": "http://www.opm.gov/data/Index.aspx?tag=Annuitants",
+        "landingPage": "http://www.opm.gov/data/Index.aspx?tag=Annuitants"
+    }
+]
